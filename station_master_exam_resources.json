@@ -108,6 +108,86 @@
   },
   "books": [
     {
+      "title": "NCERT Science Textbook Class 9",
+      "author": "NCERT",
+      "format": "PDF",
+      "price": "Free",
+      "pdf_url": "https://ncert.nic.in/textbook/pdf/iesc1ps.pdf",
+      "topics_covered": ["Basic Science", "Motion", "Work and Energy", "Electricity", "Heat", "Sound"]
+    },
+    {
+      "title": "NCERT Science Textbook Class 10",
+      "author": "NCERT",
+      "format": "PDF",
+      "price": "Free",
+      "pdf_url": "https://ncert.nic.in/textbook/pdf/jesc1ps.pdf",
+      "topics_covered": ["Basic Science", "Chemical Reactions", "Electricity", "Magnetic Effects", "Light", "Human Eye"]
+    },
+    {
+      "title": "NCERT Mathematics Textbook Class 9",
+      "author": "NCERT",
+      "format": "PDF",
+      "price": "Free",
+      "pdf_url": "https://ncert.nic.in/textbook/pdf/iemh1ps.pdf",
+      "topics_covered": ["Number System", "Polynomials", "Coordinate Geometry", "Linear Equations", "Geometry", "Probability"]
+    },
+    {
+      "title": "NCERT Mathematics Textbook Class 10",
+      "author": "NCERT",
+      "format": "PDF",
+      "price": "Free",
+      "pdf_url": "https://ncert.nic.in/textbook/pdf/jemh1ps.pdf",
+      "topics_covered": ["Real Numbers", "Polynomials", "Quadratic Equations", "Arithmetic Progression", "Trigonometry", "Statistics"]
+    },
+    {
+      "title": "Quantitative Aptitude for Competitive Examinations",
+      "author": "R.S. Aggarwal",
+      "publisher": "S. Chand",
+      "format": "Paperback",
+      "amazon_url": "https://www.amazon.in/s?k=R.S.+Aggarwal+Quantitative+Aptitude",
+      "topics_covered": ["Mathematics", "Data Interpretation", "Number System", "Ratio & Proportion", "Time Speed Distance", "Profit Loss"]
+    },
+    {
+      "title": "Verbal and Non-Verbal Reasoning",
+      "author": "R.S. Aggarwal",
+      "publisher": "S. Chand",
+      "format": "Paperback",
+      "amazon_url": "https://www.amazon.in/s?k=R.S.+Aggarwal+Verbal+Non+Verbal+Reasoning",
+      "topics_covered": ["Logical Reasoning", "Analogy", "Series", "Coding-Decoding", "Blood Relations", "Syllogism"]
+    },
+    {
+      "title": "Objective General English",
+      "author": "S.P. Bakshi",
+      "publisher": "Arihant",
+      "format": "Paperback",
+      "amazon_url": "https://www.amazon.in/s?k=S.P.+Bakshi+Objective+General+English",
+      "topics_covered": ["Reading Comprehension", "Grammar", "Vocabulary", "Sentence Correction"]
+    },
+    {
+      "title": "Railway ASM/SM/TA Psychological Test",
+      "author": "B.K. Singh (Kiran)",
+      "publisher": "Kiran Prakashan",
+      "format": "Paperback",
+      "amazon_url": "https://www.amazon.in/s?k=Kiran+Railway+ASM+SM+TA+Psychological+Test",
+      "topics_covered": ["CBAT", "Psychological Test", "Aptitude Test"]
+    },
+    {
+      "title": "Fast Track Objective Arithmetic",
+      "author": "Rajesh Verma",
+      "publisher": "Arihant",
+      "format": "Paperback",
+      "amazon_url": "https://www.amazon.in/s?k=Rajesh+Verma+Fast+Track+Objective+Arithmetic",
+      "topics_covered": ["Shortcut methods", "Speed maths", "Arithmetic"]
+    },
+    {
+      "title": "Data Interpretation",
+      "author": "Arun Sharma",
+      "publisher": "McGraw Hill",
+      "format": "Paperback",
+      "amazon_url": "https://www.amazon.in/s?k=Arun+Sharma+Data+Interpretation",
+      "topics_covered": ["Data Analysis", "Charts", "Graphs", "Tables", "Venn Diagrams"]
+    },
+    {
       "title": "RRB Station Master 2026-2027 (Set of 4 Books)",
       "author": "Chetan Sakhuja",
       "publisher": "Chetan Sakhuja Publications",
@@ -126,50 +206,12 @@
       "topics_covered": ["Chapterwise Theory & Exercise", "3000+ Practice Questions", "20 Online Mock Tests"]
     },
     {
-      "title": "Railway Station Master Graduate Level Exam Single Stage CBT Practice Work Book (English Medium)",
-      "author": "Kiran Institute of Career Excellence Pvt. Ltd.",
-      "format": "Paperback",
-      "price_inr": 245,
-      "amazon_url": "https://www.amazon.in/gp/new-releases/books/4149791031",
-      "topics_covered": ["Practice questions", "CBT pattern"]
-    },
-    {
-      "title": "Railway Station Master Graduate Level Exam Single Stage CBT Practice Work Book (Hindi Medium)",
-      "author": "Kiran Institute of Career Excellence Pvt. Ltd.",
-      "format": "Paperback",
-      "price_inr": 245,
-      "amazon_url": "https://www.amazon.in/gp/new-releases/books/4149791031",
-      "topics_covered": ["Practice questions", "CBT pattern"]
-    },
-    {
       "title": "RRB - Railway Station Master Exam Preparation Study Material Notes (Set of 3 Books)",
       "author": "ToppersNotes",
       "format": "Paperback",
       "price_inr": 799,
       "amazon_url": "https://www.amazon.in/gp/new-releases/books/4149791031",
       "topics_covered": ["Study material notes", "English Medium"]
-    },
-    {
-      "title": "Railway Maths Book 2027 (6200+ MCQ Questions)",
-      "author": "Pinnacle Publications",
-      "format": "Paperback",
-      "amazon_url": "https://www.amazon.in/gp/new-releases/books/4149791031",
-      "topics_covered": ["Mathematics", "Chapter-wise PYQs", "Detailed explanations"]
-    },
-    {
-      "title": "Railway General Studies Book 2027 (7100+ MCQ Questions)",
-      "author": "Pinnacle Publications",
-      "format": "Paperback",
-      "amazon_url": "https://www.amazon.in/gp/new-releases/books/4149791031",
-      "topics_covered": ["General Studies", "Chapter-wise PYQs", "Detailed explanations"]
-    },
-    {
-      "title": "GK/GS One Liner Pocket Book for All SSC & Railway Exams (Hindi)",
-      "author": "Adda247",
-      "format": "Paperback",
-      "price_inr": 144,
-      "amazon_url": "https://www.amazon.in/gp/new-releases/books/4149791031",
-      "topics_covered": ["General Knowledge", "General Science", "One-liner format"]
     },
     {
       "title": "Testbook SmartBooks - RRB Station Master",
@@ -379,6 +421,7 @@
     "Adda247 (adda247.com)",
     "PracticeMock (practicemock.com)",
     "Amazon India (amazon.in)",
+    "NCERT (ncert.nic.in)",
     "YouTube (Railway Exams Wallah, Careerwill, Adda247, ADARI Institute, Teaching Wallah)"
   ]
 }
