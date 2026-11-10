@@ -1,26 +1,35 @@
 {
-  "name": "Station Master Exam Resources",
-  "description": "Complete study resource for RRB Station Master (Graduate Level) Single Stage CBT exam (CEN 08/2026). Includes new syllabus, exam pattern, departmental exam syllabus, recommended books, YouTube videos, past question papers, mock tests, study notes, online courses, preparation tips, and all important links with direct PDF and YouTube URLs.",
-  "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master_exam_resources.json",
+  "repo": "VikasNadcab/ranker",
   "repo_url": "https://github.com/VikasNadcab/ranker",
-  "file": "station_master_exam_resources.json",
-  "exam": "RRB Station Master (Graduate Level)",
-  "notification": "CEN 08/2026",
-  "conducting_body": "Railway Recruitment Board (RRB)",
-  "vacancies": 1265,
+  "description": "Central index of all exam preparation resources. Each entry points to a raw JSON file with direct links to syllabus, books, YouTube videos, past papers, mock tests, and study materials.",
   "last_updated": "2026-11-10",
-  "contents": [
-    "exam_pattern",
-    "official_notification_pdf",
-    "official_syllabus_pdf",
-    "departmental_exam_syllabus",
-    "books",
-    "youtube_channels_and_videos",
-    "past_question_papers",
-    "mock_tests",
-    "study_notes",
-    "online_courses",
-    "important_links",
-    "preparation_tips"
-  ]
+  "resources": [
+    {
+      "id": "station_master",
+      "name": "RRB Station Master (Graduate Level) Single Stage CBT",
+      "category": "Railway Recruitment",
+      "notification": "CEN 08/2026",
+      "conducting_body": "Railway Recruitment Board (RRB)",
+      "vacancies": 1265,
+      "file": "station_master_exam_resources.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master_exam_resources.json",
+      "description": "Complete study resource for RRB Station Master exam. Includes new syllabus, exam pattern, departmental exam syllabus, recommended books, YouTube videos, past question papers, mock tests, study notes, online courses, preparation tips, and all important links with direct PDF and YouTube URLs.",
+      "contents": [
+        "exam_pattern",
+        "official_notification_pdf",
+        "official_syllabus_pdf",
+        "departmental_exam_syllabus",
+        "books",
+        "youtube_channels_and_videos",
+        "past_question_papers",
+        "mock_tests",
+        "study_notes",
+        "online_courses",
+        "important_links",
+        "preparation_tips"
+      ],
+      "last_updated": "2026-11-10"
+    }
+  ],
+  "future_additions": "Add more exam resources by appending to the 'resources' array. Each resource should follow the same structure: id, name, category, notification, conducting_body, vacancies, file, raw_url, description, contents, last_updated."
 }
