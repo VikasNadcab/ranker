@@ -11,8 +11,8 @@
       "notification": "CEN 08/2026",
       "conducting_body": "Railway Recruitment Board (RRB)",
       "vacancies": 1265,
-      "file": "station_master_exam_resources.json",
-      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master_exam_resources.json",
+      "file": "station_master/station_master_exam_resources.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/station_master_exam_resources.json",
       "description": "Complete study resource for RRB Station Master exam. Includes new syllabus, exam pattern, departmental exam syllabus, recommended books, YouTube videos, past question papers, mock tests, study notes, online courses, preparation tips, and all important links with direct PDF and YouTube URLs.",
       "contents": [
         "exam_pattern",
