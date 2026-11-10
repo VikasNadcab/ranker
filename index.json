@@ -33,7 +33,7 @@
   ],
   "future_additions": "Add more exam resources by appending to the 'resources' array. Each resource should follow the same structure: id, name, category, notification, conducting_body, vacancies, file, raw_url, description, contents, last_updated.",
   "mock_tests": {
-    "total_created": 27,
+    "total_created": 28,
     "folder": "station_master/",
     "files": [
       "station_master/mock_test_001.json",
