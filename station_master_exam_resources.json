@@ -1,0 +1,384 @@
+{
+  "exam_name": "RRB Station Master (Graduate Level) Single Stage CBT",
+  "conducting_body": "Railway Recruitment Board (RRB)",
+  "notification_number": "CEN 08/2026",
+  "vacancies": 1265,
+  "application_dates": {
+    "start": "27 October 2026",
+    "end": "25 November 2026",
+    "portal": "https://www.rrbapply.gov.in/"
+  },
+  "eligibility": {
+    "qualification": "Graduation (any discipline)",
+    "age_limit": "20 to 33 years",
+    "medical_standard": "A-2 (as per Indian Railways medical standards)"
+  },
+  "selection_process": ["CBT (Computer Based Test)", "CBAT (Computer Based Aptitude Test)", "Document Verification", "Medical Examination"],
+  "pay_level": "Level 6 (7th CPC)",
+  "basic_pay": "Rs. 35,400 - Rs. 1,12,400",
+  "grade_pay": "Rs. 4,200",
+  "job_profile": "Station Master - responsible for overall management and operation of railway station, train movements, safety, commercial activities",
+  "exam_pattern": {
+    "type": "Single Stage CBT (Computer Based Test)",
+    "total_questions": 100,
+    "total_marks": 100,
+    "duration_minutes": 90,
+    "marking_scheme": "+1 for correct, -1/3 for incorrect",
+    "negative_marking": "1/3 mark deducted per wrong answer",
+    "language": "English, Hindi and other regional languages",
+    "sections": [
+      {
+        "section": "Basic Science & Mathematics",
+        "marks": 30,
+        "topics": [
+          "Number System", "Ratio & Proportions", "Averages", "Percentages", "Profit, Loss & Discounts",
+          "Time, Speed, Distance", "Power & Work", "Algebra", "Linear Equations",
+          "Arithmetic Progression", "LCM, HCF", "Geometry and Trigonometry", "Area & Volumes",
+          "Probability and Statistics (Basic Level)", "Units, Measurements", "Mass, Weight and Density",
+          "Work, Power, Energy", "Kinetic Energy", "Friction", "Speed, Velocity, Relative Velocity",
+          "Heat and Temperature", "Basic Electricity", "Levers and Simple Machines"
+        ]
+      },
+      {
+        "section": "Data Analysis & Interpretation",
+        "marks": 30,
+        "topics": [
+          "Multi-source Data Analysis", "Examination and analysis of text", "Tabular data analysis",
+          "Graphical data (charts, graphs, scatter plot, pie chart, statistical curve distribution)",
+          "Venn Diagrams", "Data Sufficiency", "Data Arrangement"
+        ]
+      },
+      {
+        "section": "Logical Capability",
+        "marks": 20,
+        "topics": {
+          "logical_reasoning": [
+            "Binary Logic", "Syllogism", "Clocks & Calendars", "Assumptions", "Blood Relations",
+            "Family Tree", "Solving logic-based puzzles"
+          ],
+          "reading_comprehension": [
+            "Passages from History, Society, Literature, Science, Environment, Abstract, Mythology, Technology, Culture",
+            "Main idea", "Supporting idea", "Application", "Logical structure", "Style of paragraph"
+          ]
+        }
+      },
+      {
+        "section": "Mental Reasoning",
+        "marks": 20,
+        "topics": [
+          "Analogy - Identifying relationship between two items",
+          "Series Completion - Identifying pattern in sequence of numbers",
+          "Coding-Decoding type questions",
+          "Ranking and Arrangement-based problems"
+        ]
+      }
+    ]
+  },
+  "official_notification_pdf": {
+    "direct_link": "https://rrb.indianrailways.gov.in/-/image/1793016771817CEN_08_2026_StationMaster.pdf/examsDocuments",
+    "mirror_link": "https://cdn.testbook.com/1793019803256-RRB-Station-Master-Notification-2026.pdf/1793019838.pdf",
+    "source": "RRB Official Website (rrb.indianrailways.gov.in)",
+    "release_date": "26 October 2026"
+  },
+  "official_syllabus_pdf": {
+    "direct_link": "https://cdn.testbook.com/1793607868702-rrb-station-master-syllabus-exam-pattern.pdf/1793607870.pdf",
+    "source": "Testbook (hosted copy of official RRB syllabus)",
+    "official_website": "https://rrb.indianrailways.gov.in/"
+  },
+  "departmental_exam_syllabus": {
+    "note": "For departmental promotions (25% promotional quota and 15% LDCE quota)",
+    "subjects": [
+      "General English (Sentence Correction, Sentence Construction)",
+      "Arithmetic (Basic Arithmetic, Ratio and Proportion)",
+      "General Awareness (Current events, Indian history, geography, railway-related knowledge)",
+      "Official Language Policy and Rules",
+      "D&AR Rules (Charge Sheets, Standard Forms, Major/Minor Penalty)",
+      "Establishment Rules (Leave rules - LAP, LHAP, CCL, ML; Pass rules - Privilege Pass, PTO, Duty Pass)",
+      "Commercial Rules (Wharfage, Demurrage, WDRF, PTO)",
+      "Rules regarding working of Trains (Organisation setup, signalling systems, G&SR Chapter III, Caution Orders, Safety and Accidents, Commercial Documents, Station Working Rules)",
+      "Engineering Line Block Procedures",
+      "Level Crossing Gates",
+      "Working on Electrified Sections (OHE failures, Power Block)",
+      "Marshalling (Coaching Trains, POL trains)",
+      "Shunting (Shunting instructions, authorities, Block forward/Block Back)",
+      "Other Books (WTT, BWM, Accident Manual)",
+      "New Technology (FOIS, COIS, ICMS, COA)"
+    ],
+    "source_pdf": "https://scr.indianrailways.gov.in/scr-view/HQ/Head%20Quarter/1759233032271-Section%20Controller%20Notification%20through%20CBT%20(2).pdf"
+  },
+  "books": [
+    {
+      "title": "RRB Station Master 2026-2027 (Set of 4 Books)",
+      "author": "Chetan Sakhuja",
+      "publisher": "Chetan Sakhuja Publications",
+      "format": "Paperback",
+      "price_inr": 898,
+      "amazon_url": "https://www.amazon.in/Station-Master-2026-2027-Railway-Recruitment/dp/B0HNWRQLCB",
+      "topics_covered": ["Basic Science", "Mathematics", "Data Analysis & DI", "Logical Capability", "Mental Reasoning", "Reading Comprehension"]
+    },
+    {
+      "title": "All in One RRB Station Master Exam 2027",
+      "author": "PW (Physics Wallah)",
+      "publisher": "PW Publications",
+      "format": "Paperback",
+      "price_inr": 278,
+      "amazon_url": "https://www.amazon.in/gp/new-releases/books/4149791031",
+      "topics_covered": ["Chapterwise Theory & Exercise", "3000+ Practice Questions", "20 Online Mock Tests"]
+    },
+    {
+      "title": "Railway Station Master Graduate Level Exam Single Stage CBT Practice Work Book (English Medium)",
+      "author": "Kiran Institute of Career Excellence Pvt. Ltd.",
+      "format": "Paperback",
+      "price_inr": 245,
+      "amazon_url": "https://www.amazon.in/gp/new-releases/books/4149791031",
+      "topics_covered": ["Practice questions", "CBT pattern"]
+    },
+    {
+      "title": "Railway Station Master Graduate Level Exam Single Stage CBT Practice Work Book (Hindi Medium)",
+      "author": "Kiran Institute of Career Excellence Pvt. Ltd.",
+      "format": "Paperback",
+      "price_inr": 245,
+      "amazon_url": "https://www.amazon.in/gp/new-releases/books/4149791031",
+      "topics_covered": ["Practice questions", "CBT pattern"]
+    },
+    {
+      "title": "RRB - Railway Station Master Exam Preparation Study Material Notes (Set of 3 Books)",
+      "author": "ToppersNotes",
+      "format": "Paperback",
+      "price_inr": 799,
+      "amazon_url": "https://www.amazon.in/gp/new-releases/books/4149791031",
+      "topics_covered": ["Study material notes", "English Medium"]
+    },
+    {
+      "title": "Railway Maths Book 2027 (6200+ MCQ Questions)",
+      "author": "Pinnacle Publications",
+      "format": "Paperback",
+      "amazon_url": "https://www.amazon.in/gp/new-releases/books/4149791031",
+      "topics_covered": ["Mathematics", "Chapter-wise PYQs", "Detailed explanations"]
+    },
+    {
+      "title": "Railway General Studies Book 2027 (7100+ MCQ Questions)",
+      "author": "Pinnacle Publications",
+      "format": "Paperback",
+      "amazon_url": "https://www.amazon.in/gp/new-releases/books/4149791031",
+      "topics_covered": ["General Studies", "Chapter-wise PYQs", "Detailed explanations"]
+    },
+    {
+      "title": "GK/GS One Liner Pocket Book for All SSC & Railway Exams (Hindi)",
+      "author": "Adda247",
+      "format": "Paperback",
+      "price_inr": 144,
+      "amazon_url": "https://www.amazon.in/gp/new-releases/books/4149791031",
+      "topics_covered": ["General Knowledge", "General Science", "One-liner format"]
+    },
+    {
+      "title": "Testbook SmartBooks - RRB Station Master",
+      "author": "Testbook",
+      "format": "Online/PDF",
+      "url": "https://testbook.com/prep/study-material/rrb-station-master/",
+      "topics_covered": ["Online courses", "Mock tests", "Chapter-wise PDF notes", "Daily quizzes"]
+    },
+    {
+      "title": "Adda247 RRB Station Master Exam Kit",
+      "author": "Adda247",
+      "format": "Online",
+      "url": "https://www.adda247.com/rrb-station-master-exam-kit",
+      "topics_covered": ["Study notes", "Study plan", "Mock tests", "Live classes"]
+    }
+  ],
+  "youtube_channels_and_videos": [
+    {
+      "channel": "Railway Exams Wallah (PW)",
+      "channel_url": "https://www.youtube.com/@railwayexamswallah",
+      "videos": [
+        {
+          "title": "Railway Station Master 2026 | 3 Months Complete Strategy | RRB Station Master Preparation 2026",
+          "direct_url": "https://www.youtube.com/watch?v=GeyPNNIqMNw",
+          "embed_url": "https://www.youtube.com/embed/GeyPNNIqMNw",
+          "duration": "24:57",
+          "topics": ["Preparation strategy", "Study plan", "New exam pattern"]
+        }
+      ]
+    },
+    {
+      "channel": "Careerwill Railway Exams",
+      "channel_url": "https://www.youtube.com/@careerwillrailwayexams",
+      "videos": [
+        {
+          "title": "RRB Station Master New Vacancy 2026 | Preparation Strategy & Syllabus (Bharat Sir)",
+          "direct_url": "https://www.youtube.com/watch?v=sNIAk5ltXuI",
+          "embed_url": "https://www.youtube.com/embed/sNIAk5ltXuI",
+          "duration": "15:40",
+          "topics": ["Preparation strategy", "Syllabus", "Master plan", "Study plan", "Safe zone vs danger zone"]
+        }
+      ]
+    },
+    {
+      "channel": "Adda247 SSC Exams",
+      "channel_url": "https://www.youtube.com/@adda247ssc",
+      "videos": [
+        {
+          "title": "RRB Station Master syllabus 2026 | Exam Pattern & Syllabus | Strategy",
+          "direct_url": "https://www.youtube.com/watch?v=mAnrmm-CNEk",
+          "embed_url": "https://www.youtube.com/embed/mAnrmm-CNEk",
+          "duration": "10:52",
+          "topics": ["Complete syllabus", "Exam pattern", "CBT 1", "Preparation strategy", "Study plan"]
+        }
+      ]
+    },
+    {
+      "channel": "ADARI INSTITUTE",
+      "channel_url": "https://www.youtube.com/",
+      "videos": [
+        {
+          "title": "RRB STATION MASTER 2026 | PREPARATION STRATEGY | 90 DAYS STUDY PLAN | NEW EXAM PATTERN",
+          "direct_url": "https://www.youtube.com/watch?v=0-n_WOe-M6k",
+          "embed_url": "https://www.youtube.com/embed/0-n_WOe-M6k",
+          "topics": ["90 days study plan", "New exam pattern", "Mathematics concepts"]
+        }
+      ]
+    },
+    {
+      "channel": "Adda247 Tamil",
+      "channel_url": "https://www.youtube.com/@adda247tamil",
+      "videos": [
+        {
+          "title": "RRB Station Master Exam Date 2026 | Safe Score and Exam Preparation Strategy",
+          "direct_url": "https://www.youtube.com/watch?v=fVTS2P1dnlQ",
+          "embed_url": "https://www.youtube.com/embed/fVTS2P1dnlQ",
+          "duration": "24:48",
+          "topics": ["Expected exam date", "Previous year cut-off trends", "Safe score", "Target marks", "Preparation strategy"]
+        }
+      ]
+    },
+    {
+      "channel": "Teaching Wallah by PW",
+      "channel_url": "https://www.youtube.com/@teachingwallahbypw",
+      "topics_covered": ["Mathematics concepts for all competitive exams"]
+    },
+    {
+      "channel": "YouTube Search",
+      "search_url": "https://www.youtube.com/results?search_query=RRB+Station+Master+2026+preparation"
+    }
+  ],
+  "past_question_papers": {
+    "note": "RRB Station Master is a new exam (CEN 08/2026). Separate Station Master papers may not exist yet. Candidates can use RRB NTPC Graduate Level papers for practice.",
+    "available_sources": [
+      {
+        "platform": "Testbook",
+        "url": "https://testbook.com/rrb-station-master/previous-year-papers",
+        "description": "4 Full Paper PYP (online attempt + PDF), sample papers for each subject"
+      },
+      {
+        "platform": "Adda247",
+        "url": "https://www.adda247.com/exams/railway/rrb-station-master-previous-year-question-papers/",
+        "description": "CBT 1 and CBT 2 similar papers for 2025 and 2026 with multiple shifts, English and Hindi versions"
+      },
+      {
+        "platform": "PracticeMock",
+        "url": "https://www.practicemock.com/blog/rrb-station-master-previous-year-question-papers/",
+        "description": "Free PDF previous year question papers with solutions"
+      }
+    ],
+    "sample_papers_pdf": [
+      {
+        "subject": "Basic Science & Mathematics",
+        "direct_link": "https://testbook.com/rrb-station-master/previous-year-papers",
+        "source": "Testbook"
+      },
+      {
+        "subject": "Data Analysis & Interpretation",
+        "direct_link": "https://testbook.com/rrb-station-master/previous-year-papers",
+        "source": "Testbook"
+      },
+      {
+        "subject": "Logical Capability",
+        "direct_link": "https://testbook.com/rrb-station-master/previous-year-papers",
+        "source": "Testbook"
+      },
+      {
+        "subject": "Mental Reasoning",
+        "direct_link": "https://testbook.com/rrb-station-master/previous-year-papers",
+        "source": "Testbook"
+      }
+    ],
+    "2026_exam_dates": {
+      "cbt1": ["16 March 2026", "17 March 2026", "18 March 2026", "19 March 2026", "22 March 2026", "24 March 2026", "25 March 2026", "27 March 2026"],
+      "cbt2": ["10 July 2026"]
+    },
+    "2025_exam_dates": {
+      "cbt1": ["5 June 2025", "6 June 2025", "9 June 2025", "10 June 2025", "11 June 2025", "12 June 2025", "13 June 2025"],
+      "cbt2": ["13 Oct 2025"]
+    }
+  },
+  "mock_tests": {
+    "testbook": {
+      "url": "https://testbook.com/prep/study-material/rrb-station-master/",
+      "total_tests": 162,
+      "free_tests": 2,
+      "languages": ["English", "Hindi", "Bengali", "Marathi", "Telugu", "Tamil", "Kannada", "Gujarati"]
+    },
+    "adda247": {
+      "url": "https://www.adda247.com/rrb-station-master-exam-kit",
+      "total_tests": 182,
+      "free_tests": 3
+    }
+  },
+  "study_notes": {
+    "testbook": {
+      "url": "https://testbook.com/prep/study-material/rrb-station-master/",
+      "chapter_wise_pdf_notes": 1317,
+      "subjects": ["Logical Reasoning", "Verbal Reasoning", "Non Verbal Reasoning", "Basic Science", "Mathematics", "Data Analysis & Interpretation"]
+    }
+  },
+  "online_courses": [
+    {
+      "platform": "Testbook",
+      "courses": 5,
+      "live_classes": true,
+      "url": "https://testbook.com/prep/study-material/rrb-station-master/"
+    },
+    {
+      "platform": "Adda247",
+      "courses": ["RRB Station Master 2026-27 Target Batch (Hinglish) - 206 Live Classes"],
+      "url": "https://www.adda247.com/rrb-station-master-exam-kit"
+    }
+  ],
+  "important_links": {
+    "official_website": "https://rrb.indianrailways.gov.in/",
+    "application_portal": "https://www.rrbapply.gov.in/",
+    "official_notification_pdf": "https://rrb.indianrailways.gov.in/-/image/1793016771817CEN_08_2026_StationMaster.pdf/examsDocuments",
+    "notification_mirror_pdf": "https://cdn.testbook.com/1793019803256-RRB-Station-Master-Notification-2026.pdf/1793019838.pdf",
+    "syllabus_pdf": "https://cdn.testbook.com/1793607868702-rrb-station-master-syllabus-exam-pattern.pdf/1793607870.pdf",
+    "departmental_syllabus_pdf": "https://scr.indianrailways.gov.in/scr-view/HQ/Head%20Quarter/1759233032271-Section%20Controller%20Notification%20through%20CBT%20(2).pdf",
+    "testbook_study_material": "https://testbook.com/prep/study-material/rrb-station-master/",
+    "testbook_previous_papers": "https://testbook.com/rrb-station-master/previous-year-papers",
+    "adda247_study_material": "https://www.adda247.com/rrb-station-master-exam-kit",
+    "adda247_previous_papers": "https://www.adda247.com/exams/railway/rrb-station-master-previous-year-question-papers/",
+    "practicemock_previous_papers": "https://www.practicemock.com/blog/rrb-station-master-previous-year-question-papers/",
+    "amazon_books": "https://www.amazon.in/gp/new-releases/books/4149791031",
+    "pib_press_release": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2329071"
+  },
+  "preparation_tips": [
+    "Focus on Basic Science & Mathematics (30 marks) - cover all topics thoroughly",
+    "Practice Data Analysis & Interpretation (30 marks) with charts, graphs, tables",
+    "Logical Capability (20 marks) - practice syllogism, blood relations, puzzles, RC passages",
+    "Mental Reasoning (20 marks) - analogy, series, coding-decoding, ranking",
+    "Solve previous year papers (2016, 2025, 2026) under timed conditions",
+    "Take mock tests regularly to improve speed and accuracy",
+    "Follow 90-day study plan for systematic preparation",
+    "Revise regularly - weekly revision of covered topics",
+    "Focus on weak areas identified through mock test analysis",
+    "Stay updated with current affairs for General Awareness"
+  ],
+  "last_updated": "2026-11-10",
+  "data_sources": [
+    "RRB Official Notification CEN 08/2026 (rrb.indianrailways.gov.in)",
+    "PIB Press Release (pib.gov.in)",
+    "Testbook (testbook.com)",
+    "Adda247 (adda247.com)",
+    "PracticeMock (practicemock.com)",
+    "Amazon India (amazon.in)",
+    "YouTube (Railway Exams Wallah, Careerwill, Adda247, ADARI Institute, Teaching Wallah)"
+  ]
+}
