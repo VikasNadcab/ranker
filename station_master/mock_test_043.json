@@ -1,0 +1,1337 @@
+{
+  "mock_test_id": "SM_MOCK_043",
+  "exam": "RRB Station Master (Graduate Level) Single Stage CBT",
+  "notification": "CEN 08/2026",
+  "based_on": "RRB NTPC Graduate Level CBT 1 (05 June 2025 Shift 1) - Extreme Hard difficulty",
+  "total_questions": 100,
+  "total_marks": 100,
+  "duration_minutes": 90,
+  "marking_scheme": "+1 for correct, -1/3 for incorrect",
+  "difficulty": "Extreme Hard",
+  "sections": [
+    {
+      "section": "Basic Science & Mathematics",
+      "marks": 30,
+      "questions": [
+        {
+          "q": 1,
+          "question": "Extreme Hard Question 1 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 2,
+          "question": "Extreme Hard Question 2 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 3,
+          "question": "Extreme Hard Question 3 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 4,
+          "question": "Extreme Hard Question 4 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 5,
+          "question": "Extreme Hard Question 5 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 6,
+          "question": "Extreme Hard Question 6 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 7,
+          "question": "Extreme Hard Question 7 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 8,
+          "question": "Extreme Hard Question 8 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 9,
+          "question": "Extreme Hard Question 9 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 10,
+          "question": "Extreme Hard Question 10 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 11,
+          "question": "Extreme Hard Question 11 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 12,
+          "question": "Extreme Hard Question 12 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 13,
+          "question": "Extreme Hard Question 13 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 14,
+          "question": "Extreme Hard Question 14 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 15,
+          "question": "Extreme Hard Question 15 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 16,
+          "question": "Extreme Hard Question 16 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 17,
+          "question": "Extreme Hard Question 17 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 18,
+          "question": "Extreme Hard Question 18 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 19,
+          "question": "Extreme Hard Question 19 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 20,
+          "question": "Extreme Hard Question 20 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 21,
+          "question": "Extreme Hard Question 21 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 22,
+          "question": "Extreme Hard Question 22 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 23,
+          "question": "Extreme Hard Question 23 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 24,
+          "question": "Extreme Hard Question 24 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 25,
+          "question": "Extreme Hard Question 25 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 26,
+          "question": "Extreme Hard Question 26 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 27,
+          "question": "Extreme Hard Question 27 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 28,
+          "question": "Extreme Hard Question 28 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 29,
+          "question": "Extreme Hard Question 29 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 30,
+          "question": "Extreme Hard Question 30 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        }
+      ]
+    },
+    {
+      "section": "Data Analysis & Interpretation",
+      "marks": 30,
+      "questions": [
+        {
+          "q": 31,
+          "question": "Extreme Hard Question 31 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 32,
+          "question": "Extreme Hard Question 32 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 33,
+          "question": "Extreme Hard Question 33 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 34,
+          "question": "Extreme Hard Question 34 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 35,
+          "question": "Extreme Hard Question 35 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 36,
+          "question": "Extreme Hard Question 36 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 37,
+          "question": "Extreme Hard Question 37 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 38,
+          "question": "Extreme Hard Question 38 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 39,
+          "question": "Extreme Hard Question 39 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 40,
+          "question": "Extreme Hard Question 40 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 41,
+          "question": "Extreme Hard Question 41 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 42,
+          "question": "Extreme Hard Question 42 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 43,
+          "question": "Extreme Hard Question 43 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 44,
+          "question": "Extreme Hard Question 44 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 45,
+          "question": "Extreme Hard Question 45 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 46,
+          "question": "Extreme Hard Question 46 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 47,
+          "question": "Extreme Hard Question 47 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 48,
+          "question": "Extreme Hard Question 48 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 49,
+          "question": "Extreme Hard Question 49 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 50,
+          "question": "Extreme Hard Question 50 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 51,
+          "question": "Extreme Hard Question 51 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 52,
+          "question": "Extreme Hard Question 52 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 53,
+          "question": "Extreme Hard Question 53 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 54,
+          "question": "Extreme Hard Question 54 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 55,
+          "question": "Extreme Hard Question 55 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 56,
+          "question": "Extreme Hard Question 56 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 57,
+          "question": "Extreme Hard Question 57 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 58,
+          "question": "Extreme Hard Question 58 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 59,
+          "question": "Extreme Hard Question 59 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 60,
+          "question": "Extreme Hard Question 60 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        }
+      ]
+    },
+    {
+      "section": "Logical Capability",
+      "marks": 20,
+      "questions": [
+        {
+          "q": 61,
+          "question": "Extreme Hard Question 61 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 62,
+          "question": "Extreme Hard Question 62 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 63,
+          "question": "Extreme Hard Question 63 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 64,
+          "question": "Extreme Hard Question 64 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 65,
+          "question": "Extreme Hard Question 65 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 66,
+          "question": "Extreme Hard Question 66 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 67,
+          "question": "Extreme Hard Question 67 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 68,
+          "question": "Extreme Hard Question 68 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 69,
+          "question": "Extreme Hard Question 69 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 70,
+          "question": "Extreme Hard Question 70 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 71,
+          "question": "Extreme Hard Question 71 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 72,
+          "question": "Extreme Hard Question 72 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 73,
+          "question": "Extreme Hard Question 73 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 74,
+          "question": "Extreme Hard Question 74 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 75,
+          "question": "Extreme Hard Question 75 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 76,
+          "question": "Extreme Hard Question 76 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 77,
+          "question": "Extreme Hard Question 77 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 78,
+          "question": "Extreme Hard Question 78 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 79,
+          "question": "Extreme Hard Question 79 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 80,
+          "question": "Extreme Hard Question 80 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        }
+      ]
+    },
+    {
+      "section": "Mental Reasoning",
+      "marks": 20,
+      "questions": [
+        {
+          "q": 81,
+          "question": "Extreme Hard Question 81 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 82,
+          "question": "Extreme Hard Question 82 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 83,
+          "question": "Extreme Hard Question 83 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 84,
+          "question": "Extreme Hard Question 84 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 85,
+          "question": "Extreme Hard Question 85 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 86,
+          "question": "Extreme Hard Question 86 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 87,
+          "question": "Extreme Hard Question 87 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 88,
+          "question": "Extreme Hard Question 88 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 89,
+          "question": "Extreme Hard Question 89 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 90,
+          "question": "Extreme Hard Question 90 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 91,
+          "question": "Extreme Hard Question 91 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 92,
+          "question": "Extreme Hard Question 92 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 93,
+          "question": "Extreme Hard Question 93 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 94,
+          "question": "Extreme Hard Question 94 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 95,
+          "question": "Extreme Hard Question 95 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 96,
+          "question": "Extreme Hard Question 96 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 97,
+          "question": "Extreme Hard Question 97 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 98,
+          "question": "Extreme Hard Question 98 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 99,
+          "question": "Extreme Hard Question 99 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        },
+        {
+          "q": 100,
+          "question": "Extreme Hard Question 100 - Mock 43",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": "A",
+          "topic": "General",
+          "difficulty": "Extreme Hard"
+        }
+      ]
+    }
+  ]
+}
