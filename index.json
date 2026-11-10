@@ -31,5 +31,16 @@
       "last_updated": "2026-11-10"
     }
   ],
-  "future_additions": "Add more exam resources by appending to the 'resources' array. Each resource should follow the same structure: id, name, category, notification, conducting_body, vacancies, file, raw_url, description, contents, last_updated."
+  "future_additions": "Add more exam resources by appending to the 'resources' array. Each resource should follow the same structure: id, name, category, notification, conducting_body, vacancies, file, raw_url, description, contents, last_updated.",
+  "mock_tests": {
+    "total_created": 3,
+    "folder": "station_master/",
+    "files": [
+      "station_master/mock_test_001.json",
+      "station_master/mock_test_002.json",
+      "station_master/mock_test_003.json"
+    ],
+    "pattern": "100 questions, 4 sections (Basic Science & Math 30, Data Analysis 30, Logical Capability 20, Mental Reasoning 20), +1/-1/3 marking, 90 min",
+    "raw_url_base": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/"
+  }
 }
