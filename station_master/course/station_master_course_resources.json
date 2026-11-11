@@ -1,0 +1,1061 @@
+{
+  "exam": "RRB Station Master (Graduate Level) Single Stage CBT",
+  "notification": "CEN 08/2026",
+  "conducting_body": "Railway Recruitment Board (RRB)",
+  "last_updated": "2026-11-11",
+  "exam_pattern": {
+    "type": "Single stage CBT",
+    "total_questions": 100,
+    "total_marks": 100,
+    "marks_per_question": 1,
+    "duration_minutes": 120,
+    "negative_marking": "1/3 mark deducted per wrong answer",
+    "general_awareness_section": false,
+    "section_distribution_note": "Indicative; it may vary in the actual exam.",
+    "official_grouping": "Basic Science, Mathematical and Analytical Capability = 60 marks (30 Maths & Science + 30 Data Analysis), Logical Capability = 20, Mental Reasoning = 20",
+    "sections": [
+      {
+        "id": "basic_science_maths",
+        "name": "Basic Science & Mathematics",
+        "marks": 30
+      },
+      {
+        "id": "data_analysis_interpretation",
+        "name": "Data Analysis & Interpretation",
+        "marks": 30
+      },
+      {
+        "id": "logical_capability",
+        "name": "Logical Capability",
+        "marks": 20
+      },
+      {
+        "id": "mental_reasoning",
+        "name": "Mental Reasoning",
+        "marks": 20
+      }
+    ],
+    "sources": [
+      "https://www.adda247.com/exams/railway/rrb-station-master-syllabus/",
+      "https://www.skillupbihar.in/syllabus/rrb-station-master-syllabus-exam-pattern-2026",
+      "https://www.oliveboard.in/blog/railway-station-master-syllabus/"
+    ]
+  },
+  "cbat": {
+    "called_for_cbat": "8 times the RRB-wise vacancies, separately for each community",
+    "qualifying_rule": "T-score of at least 42 in every test battery",
+    "negative_marking": "None",
+    "language": "Hindi and English only",
+    "merit": "Only CBAT qualifiers are ranked: 70% CBT marks + 30% CBAT marks",
+    "documents": "Original vision certificate (Annexure VI or VI-A)",
+    "source": "https://www.skillupbihar.in/syllabus/rrb-station-master-syllabus-exam-pattern-2026",
+    "note": "The 70:30 weightage is also stated in the Adda247 video listed under overview_videos. The rest comes from one article.",
+    "youtube": [
+      {
+        "type": "playlist",
+        "title": "STATION MASTER, ALP & SCTO Psycho Test / Aptitude test / CBAT [ Railway (RRB) DMRC, LMRC & Noida METRO ]",
+        "channel": "Railway Life",
+        "url": "https://www.youtube.com/playlist?list=PLHMR7ANYWiHkaKvBW1KWDAFsE1PqM7sC6",
+        "topics": [
+          "Psycho test",
+          "Aptitude test",
+          "CBAT"
+        ],
+        "status": "verified",
+        "note": "Video count was not shown when the page was fetched."
+      },
+      {
+        "type": "video",
+        "title": "NTPC Station Master (CBAT) Psycho Test | Information Ordering Test | important questions",
+        "channel": "jugal sir online classes",
+        "url": "https://www.youtube.com/watch?v=KhWRuhs1EpY",
+        "embed_url": "https://www.youtube.com/embed/KhWRuhs1EpY",
+        "published": "2026-08-28",
+        "topics": [
+          "CBAT",
+          "Information ordering test"
+        ],
+        "status": "verified"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "basic_science_maths",
+      "name": "Basic Science & Mathematics",
+      "marks": 30,
+      "topics": {
+        "mathematics": [
+          "Number System",
+          "Ratio & Proportion",
+          "Averages",
+          "Percentages",
+          "Profit, Loss & Discount",
+          "Time, Speed & Distance",
+          "Power & Work",
+          "Algebra",
+          "Linear Equations",
+          "Arithmetic Progression",
+          "LCM & HCF",
+          "Geometry",
+          "Trigonometry",
+          "Area & Volume",
+          "Probability & Statistics (basic)"
+        ],
+        "basic_science": [
+          "Units & Measurements",
+          "Mass, Weight & Density",
+          "Work, Power & Energy",
+          "Kinetic Energy",
+          "Friction",
+          "Speed, Velocity & Relative Velocity",
+          "Heat & Temperature",
+          "Basic Electricity",
+          "Levers & Simple Machines"
+        ]
+      },
+      "youtube": [
+        {
+          "type": "video",
+          "title": "Railway Station Master 2026 Physics | Motion Theory & Numerical | Demo Class 01 | Pushpendra Sir",
+          "channel": "Vidyagram",
+          "url": "https://www.youtube.com/watch?v=3Gwe1GnYYF0",
+          "embed_url": "https://www.youtube.com/embed/3Gwe1GnYYF0",
+          "published": "2026-11-01",
+          "topics": [
+            "Motion",
+            "Speed & Velocity",
+            "Equations of motion"
+          ],
+          "status": "verified"
+        },
+        {
+          "type": "video",
+          "title": "RRB Station Master 2026 Physics | Important Topics in Tamil",
+          "channel": "Panium Vaaippum",
+          "url": "https://www.youtube.com/watch?v=p02dgubE1p4",
+          "embed_url": "https://www.youtube.com/embed/p02dgubE1p4",
+          "published": "2026-11-09",
+          "topics": [
+            "Levers",
+            "Simple machines",
+            "Mechanical advantage"
+          ],
+          "status": "verified",
+          "language": "Tamil"
+        },
+        {
+          "type": "video",
+          "title": "RAILWAY STATION MASTER GENERAL SCIENCE STRATEGY 2026 | COMPLETE SYLLABUS | BEST PREPARATION PLAN - SUJEET SIR",
+          "channel": "Railway Examपुर",
+          "url": "https://www.youtube.com/watch?v=2YIqSZnH29I",
+          "embed_url": "https://www.youtube.com/embed/2YIqSZnH29I",
+          "published": "2026-10-26",
+          "topics": [
+            "Science syllabus",
+            "Strategy"
+          ],
+          "status": "verified",
+          "note": "Strategy video. Its description may mention general science broadly; stick to the topic list above."
+        },
+        {
+          "type": "playlist",
+          "title": "RRB NTPC Maths 2026 | SSC & Railway Maths Classes",
+          "channel": "S Chand Academy",
+          "url": "https://www.youtube.com/playlist?list=PL1zxEeUFe9lej5x_DvpP_Q-Pm6P1wMK29",
+          "video_count": 25,
+          "topics": [
+            "Railway maths"
+          ],
+          "status": "verified",
+          "station_master_specific": false,
+          "note": "Railway maths playlist, not made for Station Master. Useful for arithmetic basics."
+        },
+        {
+          "type": "video",
+          "title": "COMPLETE ARITHMETIC REVISION 2026 | Percentage to TSD | SSC CGL, CHSL, CPO, MTS, Railway, CDS Maths",
+          "channel": "Abhas Saini Maths",
+          "url": "https://www.youtube.com/watch?v=zHIiFMnQmlo",
+          "embed_url": "https://www.youtube.com/embed/zHIiFMnQmlo",
+          "published": "2026-06-23",
+          "topics": [
+            "Percentage",
+            "Ratio & Proportion",
+            "Average",
+            "Profit & Loss",
+            "Discount",
+            "Time & Work",
+            "Time Speed Distance"
+          ],
+          "status": "verified",
+          "station_master_specific": false
+        },
+        {
+          "type": "video",
+          "title": "Railway Exams Maths 2026 | Maths Profit & Loss New Type of Questions | Sahil sir",
+          "channel": "Quick Tricks By Sahil Sir",
+          "url": "https://www.youtube.com/watch?v=LRWJZSCBZSY",
+          "embed_url": "https://www.youtube.com/embed/LRWJZSCBZSY",
+          "published": "2026-05-19",
+          "topics": [
+            "Profit & Loss"
+          ],
+          "status": "verified",
+          "station_master_specific": false
+        }
+      ],
+      "pdfs": [
+        {
+          "title": "NCERT Class 9 Science (new book) - Ch 4: Describing Motion Around Us",
+          "url": "https://www.esaral.com/media/uploads/2026/5/19/155617-iesc104%20cls%209%20sci.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/ncert-class-9-science-book-pdf/",
+          "topics": [
+            "Speed",
+            "Velocity",
+            "Motion"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 9 Science (new book) - Ch 6: How Forces Affect Motion",
+          "url": "https://www.esaral.com/media/uploads/2026/5/19/155751-iesc106%20cls%209%20sci.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/ncert-class-9-science-book-pdf/",
+          "topics": [
+            "Force",
+            "Friction",
+            "Motion"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 9 Science (new book) - Ch 7: Work, Energy and Simple Machines",
+          "url": "https://www.esaral.com/media/uploads/2026/5/19/155821-iesc107%20cls%209%20sci.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/ncert-class-9-science-book-pdf/",
+          "topics": [
+            "Work",
+            "Power",
+            "Energy",
+            "Kinetic energy",
+            "Levers",
+            "Simple machines"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 10 Science - Ch 11: Electricity",
+          "url": "https://www.esaral.com/media/uploads/2026/6/1/115220-jesc111.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/ncert-class-10-science-book-pdf/",
+          "topics": [
+            "Basic electricity"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 10 Science - Ch 12: Magnetic Effects of Electric Current",
+          "url": "https://www.esaral.com/media/uploads/2026/6/1/115133-jesc112.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/ncert-class-10-science-book-pdf/",
+          "topics": [
+            "Electricity (supporting)"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 9 Maths (new book) - Ch 2: Introduction to Linear Polynomials",
+          "url": "https://www.esaral.com/media/uploads/2026/5/19/134221-iemh102%20cls9%20math.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/ncert-class-9-maths-book-pdf/",
+          "topics": [
+            "Algebra",
+            "Linear equations"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 9 Maths (new book) - Ch 3: The World of Numbers",
+          "url": "https://www.esaral.com/media/uploads/2026/5/19/134250-iemh103%20cls9%20math.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/ncert-class-9-maths-book-pdf/",
+          "topics": [
+            "Number system"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 9 Maths (new book) - Ch 4: Exploring Algebraic Identities",
+          "url": "https://www.esaral.com/media/uploads/2026/5/19/134313-iemh104%20cls9%20math.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/ncert-class-9-maths-book-pdf/",
+          "topics": [
+            "Algebra"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 9 Maths (new book) - Ch 6: Measuring Space: Perimeter and Area",
+          "url": "https://www.esaral.com/media/uploads/2026/5/19/134422-iemh106%20cls9%20math.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/ncert-class-9-maths-book-pdf/",
+          "topics": [
+            "Area",
+            "Perimeter"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 9 Maths (new book) - Ch 7: The Mathematics of Maybe: Introduction to Probability",
+          "url": "https://www.esaral.com/media/uploads/2026/5/19/134514-iemh107%20cls9%20math.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/ncert-class-9-maths-book-pdf/",
+          "topics": [
+            "Probability"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 9 Maths (new book) - Ch 8: Predicting What Comes Next? Exploring Sequences and Progressions",
+          "url": "https://www.esaral.com/media/uploads/2026/5/19/135134-iemh108%20cls9%20math.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/ncert-class-9-maths-book-pdf/",
+          "topics": [
+            "Arithmetic progression"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 9 Maths (new book) - Ch 10: How Quantities Combine: Understanding Data",
+          "url": "https://www.esaral.com/media/uploads/2026/9/29/1407-Class-9th-Maths-Ganita-Manjari-Part-2-Chapter-10-Enhanced.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/ncert-class-9-maths-book-pdf/",
+          "topics": [
+            "Statistics",
+            "Data"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 9 Maths (new book) - Ch 13: Two Variables, One Line",
+          "url": "https://www.esaral.com/media/uploads/2026/9/29/135559-Class-9th-Maths-Ganita-Manjari-Part-2-Chapter-13-Enhanced.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/ncert-class-9-maths-book-pdf/",
+          "topics": [
+            "Linear equations"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 9 Maths (new book) - Ch 14: Math of Space: Surface Area and Volume",
+          "url": "https://www.esaral.com/media/uploads/2026/9/29/135342-Class-9th-Maths-Ganita-Manjari-Part-2-Chapter-14-Enhanced.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/ncert-class-9-maths-book-pdf/",
+          "topics": [
+            "Area & volume"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 10 Maths - Ch 1: Real Numbers",
+          "url": "https://www.esaral.com/media/uploads/2026/10/8/162152-jemh101.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/class-10-maths-ncert-book-pdf/",
+          "topics": [
+            "LCM & HCF",
+            "Number system"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 10 Maths - Ch 2: Polynomials",
+          "url": "https://www.esaral.com/media/uploads/2026/10/8/162339-jemh102.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/class-10-maths-ncert-book-pdf/",
+          "topics": [
+            "Algebra"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 10 Maths - Ch 3: Pair of Linear Equations in Two Variables",
+          "url": "https://www.esaral.com/media/uploads/2026/10/8/162437-jemh103.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/class-10-maths-ncert-book-pdf/",
+          "topics": [
+            "Linear equations"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 10 Maths - Ch 4: Quadratic Equations",
+          "url": "https://www.esaral.com/media/uploads/2026/10/8/162537-jemh104.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/class-10-maths-ncert-book-pdf/",
+          "topics": [
+            "Algebra"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 10 Maths - Ch 5: Arithmetic Progressions",
+          "url": "https://www.esaral.com/media/uploads/2026/10/8/162559-jemh105.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/class-10-maths-ncert-book-pdf/",
+          "topics": [
+            "Arithmetic progression"
+          ],
+          "status": "opened_and_checked"
+        },
+        {
+          "title": "NCERT Class 10 Maths - Ch 6: Triangles",
+          "url": "https://www.esaral.com/media/uploads/2026/10/8/164524-jemh106.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/class-10-maths-ncert-book-pdf/",
+          "topics": [
+            "Geometry"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 10 Maths - Ch 7: Coordinate Geometry",
+          "url": "https://www.esaral.com/media/uploads/2026/10/8/164540-jemh107.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/class-10-maths-ncert-book-pdf/",
+          "topics": [
+            "Geometry"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 10 Maths - Ch 8: Introduction to Trigonometry",
+          "url": "https://www.esaral.com/media/uploads/2026/10/8/164642-jemh108.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/class-10-maths-ncert-book-pdf/",
+          "topics": [
+            "Trigonometry"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 10 Maths - Ch 9: Some Applications of Trigonometry",
+          "url": "https://www.esaral.com/media/uploads/2026/10/8/16471-jemh109.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/class-10-maths-ncert-book-pdf/",
+          "topics": [
+            "Trigonometry"
+          ],
+          "status": "opened_and_checked"
+        },
+        {
+          "title": "NCERT Class 10 Maths - Ch 10: Circles",
+          "url": "https://www.esaral.com/media/uploads/2026/10/8/164728-jemh110.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/class-10-maths-ncert-book-pdf/",
+          "topics": [
+            "Geometry"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 10 Maths - Ch 11: Areas Related to Circles",
+          "url": "https://www.esaral.com/media/uploads/2026/10/8/164856-jemh111.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/class-10-maths-ncert-book-pdf/",
+          "topics": [
+            "Area"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 10 Maths - Ch 12: Surface Areas and Volumes",
+          "url": "https://www.esaral.com/media/uploads/2026/10/8/164916-jemh112.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/class-10-maths-ncert-book-pdf/",
+          "topics": [
+            "Area & volume"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 10 Maths - Ch 13: Statistics",
+          "url": "https://www.esaral.com/media/uploads/2026/10/8/164939-jemh113.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/class-10-maths-ncert-book-pdf/",
+          "topics": [
+            "Statistics"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 10 Maths - Ch 14: Probability",
+          "url": "https://www.esaral.com/media/uploads/2026/10/8/164957-jemh114.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/class-10-maths-ncert-book-pdf/",
+          "topics": [
+            "Probability"
+          ],
+          "status": "listed_on_source_page"
+        }
+      ],
+      "books": [
+        {
+          "title": "Quantitative Aptitude for Competitive Examinations",
+          "author": "R.S. Aggarwal",
+          "covers": "Mathematics",
+          "format": "Paid book"
+        },
+        {
+          "title": "Fast Track Objective Arithmetic",
+          "author": "Rajesh Verma",
+          "covers": "Mathematics",
+          "format": "Paid book"
+        },
+        {
+          "title": "NCERT Science Textbooks, Classes 6-10",
+          "author": "NCERT",
+          "publisher": "NCERT",
+          "covers": "Basic Science",
+          "format": "Free official PDFs (see pdfs above and the NCERT portal)"
+        },
+        {
+          "title": "Lucent's General Science",
+          "publisher": "Lucent Publications",
+          "covers": "Basic Science",
+          "format": "Paid book"
+        }
+      ]
+    },
+    {
+      "id": "data_analysis_interpretation",
+      "name": "Data Analysis & Interpretation",
+      "marks": 30,
+      "topics": [
+        "Multi-source data analysis",
+        "Textual data",
+        "Tabular data",
+        "Graphs and charts (bar, line, pie)",
+        "Scatter plots",
+        "Statistical distribution curves",
+        "Venn diagrams",
+        "Data sufficiency",
+        "Data arrangement",
+        "Drawing inferences from data"
+      ],
+      "youtube": [
+        {
+          "type": "video",
+          "title": "Railway Maths DI Class 2026 | Station Master 2026 | Data Interpretation Demo Class 01 | Aditya Sir",
+          "channel": "Vidyagram",
+          "url": "https://www.youtube.com/watch?v=DZVdA355K2Y",
+          "embed_url": "https://www.youtube.com/embed/DZVdA355K2Y",
+          "published": "2026-11-04",
+          "topics": [
+            "Data interpretation basics"
+          ],
+          "status": "verified"
+        },
+        {
+          "type": "video",
+          "title": "RRB Station Master 2026 | Railway Station Master | Data Interpretation Introduction | DI Demo 01",
+          "channel": "RWA Railway Exams",
+          "url": "https://www.youtube.com/watch?v=293hHGhObEA",
+          "embed_url": "https://www.youtube.com/embed/293hHGhObEA",
+          "published": "2026-11-01",
+          "topics": [
+            "DI basics",
+            "Table DI",
+            "Bar graph",
+            "Pie chart",
+            "Line graph"
+          ],
+          "status": "verified",
+          "language": "Hindi"
+        },
+        {
+          "type": "video",
+          "title": "RRB Station Master 2026 | Railway Station Master | Data Interpretation | Pie Chart Demo 02",
+          "channel": "RWA Railway Exams",
+          "url": "https://www.youtube.com/watch?v=PREvOHgpkW4",
+          "embed_url": "https://www.youtube.com/embed/PREvOHgpkW4",
+          "published": "2026-11-02",
+          "topics": [
+            "Pie chart",
+            "Percentage",
+            "Ratio",
+            "Average"
+          ],
+          "status": "verified"
+        },
+        {
+          "type": "video",
+          "title": "RRB Station Master 2026 | Data Interpretation - Part 1 | DI Tricks & Practice Questions | Tamil",
+          "channel": "Raju's Classes",
+          "url": "https://www.youtube.com/watch?v=e8tjjotUWiM",
+          "embed_url": "https://www.youtube.com/embed/e8tjjotUWiM",
+          "published": "2026-11-03",
+          "topics": [
+            "Pie chart",
+            "Bar graph",
+            "Table DI"
+          ],
+          "status": "verified",
+          "language": "Tamil",
+          "note": "Channel name inferred from the video description."
+        }
+      ],
+      "pdfs": [
+        {
+          "title": "NCERT Class 9 Maths (new book) - Ch 10: How Quantities Combine: Understanding Data",
+          "url": "https://www.esaral.com/media/uploads/2026/9/29/1407-Class-9th-Maths-Ganita-Manjari-Part-2-Chapter-10-Enhanced.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/ncert-class-9-maths-book-pdf/",
+          "topics": [
+            "Data",
+            "Statistics"
+          ],
+          "status": "listed_on_source_page"
+        },
+        {
+          "title": "NCERT Class 10 Maths - Ch 13: Statistics",
+          "url": "https://www.esaral.com/media/uploads/2026/10/8/164939-jemh113.pdf",
+          "format": "PDF",
+          "price": "Free",
+          "publisher": "NCERT",
+          "hosted_copy_listed_on": "https://www.esaral.com/class-10-maths-ncert-book-pdf/",
+          "topics": [
+            "Statistics"
+          ],
+          "status": "listed_on_source_page"
+        }
+      ],
+      "books": [
+        {
+          "title": "How to Prepare for Data Interpretation for CAT",
+          "author": "Arun Sharma",
+          "covers": "Data Interpretation",
+          "format": "Paid book"
+        }
+      ]
+    },
+    {
+      "id": "logical_capability",
+      "name": "Logical Capability",
+      "marks": 20,
+      "topics": {
+        "logical_reasoning": [
+          "Binary logic",
+          "Syllogism",
+          "Clocks & Calendars",
+          "Assumptions",
+          "Blood relations",
+          "Family tree",
+          "Logic-based puzzles"
+        ],
+        "english_reading_comprehension": [
+          "Passages in English only (history, society, literature, science, environment, abstract subjects, mythology, technology, culture)",
+          "Main idea",
+          "Supporting ideas",
+          "Application of information",
+          "Logical structure",
+          "Style of the passage"
+        ]
+      },
+      "youtube": [
+        {
+          "type": "video",
+          "title": "Railway Station Master 2026 | Binary Logic One Shot | Complete Reasoning Questions | Akash Sir",
+          "channel": "Vidyagram",
+          "url": "https://www.youtube.com/watch?v=n02LN4sYMfc",
+          "embed_url": "https://www.youtube.com/embed/n02LN4sYMfc",
+          "published": "2026-11-03",
+          "topics": [
+            "Binary logic"
+          ],
+          "status": "verified"
+        },
+        {
+          "type": "video",
+          "title": "RRB Station Master Classes 2026 | Station Master Reasoning Practice Set | Reasoning by Chandan Sir",
+          "channel": "Railway Testbook",
+          "url": "https://www.youtube.com/watch?v=odi-POFh0XQ",
+          "embed_url": "https://www.youtube.com/embed/odi-POFh0XQ",
+          "published": "2026-10-28",
+          "topics": [
+            "Reasoning practice (60 questions)"
+          ],
+          "status": "verified"
+        },
+        {
+          "type": "video",
+          "title": "Station Master Classes 2026 | Station Master Previous Year Question Paper | Station Master Syllabus",
+          "channel": "reasoning baba",
+          "url": "https://www.youtube.com/watch?v=wW4oNzcuBrY",
+          "embed_url": "https://www.youtube.com/embed/wW4oNzcuBrY",
+          "published": "2026-10-28",
+          "topics": [
+            "Reasoning questions",
+            "Previous year paper",
+            "Syllabus"
+          ],
+          "status": "verified",
+          "note": "Channel is linked to Malviya Classes (Vikas Sir)."
+        },
+        {
+          "type": "playlist",
+          "title": "Calendar & Clock Reasoning - By Piyush Varshney",
+          "channel": "Reasoning By Piyush Varshney",
+          "url": "https://www.youtube.com/playlist?list=PL9zUT-wt5ugqGDnNtOSuKSK4Y9_ypz4_I",
+          "video_count": 4,
+          "topics": [
+            "Clocks",
+            "Calendars"
+          ],
+          "status": "verified",
+          "station_master_specific": false
+        },
+        {
+          "type": "video",
+          "title": "RRB Station Master English Classes 2026 | Station Master Reading comprehension 2026 | Station Master",
+          "channel": "Railway Testbook",
+          "url": "https://www.youtube.com/watch?v=Ufq76iI0YC4",
+          "embed_url": "https://www.youtube.com/embed/Ufq76iI0YC4",
+          "published": "2026-11-01",
+          "topics": [
+            "Reading comprehension"
+          ],
+          "status": "verified",
+          "note": "The description is mostly about recruitment details; the class itself is for reading comprehension."
+        },
+        {
+          "type": "video",
+          "title": "RRB Station Master 2026 | Railway Station Master | Reading Comprehension | English Demo Class 03",
+          "channel": "RWA Railway Exams",
+          "url": "https://www.youtube.com/watch?v=hXQ__Curr9o",
+          "embed_url": "https://www.youtube.com/embed/hXQ__Curr9o",
+          "published": "2026-11-03",
+          "topics": [
+            "Reading comprehension",
+            "Unseen passages",
+            "Vocabulary in context"
+          ],
+          "status": "verified"
+        }
+      ],
+      "channels": [
+        {
+          "name": "Reasoning by Arun Kumar",
+          "url": "https://www.youtube.com/channel/UCOFlz9kK0jrdNMhE9OTsNgg",
+          "covers": [
+            "Syllogism",
+            "Coding-decoding",
+            "Seating arrangement",
+            "Blood relations",
+            "Puzzles"
+          ],
+          "station_master_specific": false,
+          "status": "verified"
+        }
+      ],
+      "pdfs": [],
+      "books": [
+        {
+          "title": "A Modern Approach to Verbal and Non-Verbal Reasoning",
+          "author": "R.S. Aggarwal",
+          "covers": "Logical reasoning",
+          "format": "Paid book"
+        },
+        {
+          "title": "Objective General English",
+          "author": "S.P. Bakshi",
+          "covers": "English reading comprehension",
+          "format": "Paid book"
+        }
+      ]
+    },
+    {
+      "id": "mental_reasoning",
+      "name": "Mental Reasoning",
+      "marks": 20,
+      "topics": [
+        "Analogy",
+        "Series completion (number patterns)",
+        "Coding-decoding",
+        "Ranking",
+        "Arrangement problems"
+      ],
+      "youtube": [
+        {
+          "type": "video",
+          "title": "Number Analogy, Coding Decoding and Classification Reasoning | Verbal Reasoning With Easy Tricks",
+          "channel": "Parcham Classes",
+          "url": "https://www.youtube.com/watch?v=EeA4W-k-MZk",
+          "embed_url": "https://www.youtube.com/embed/EeA4W-k-MZk",
+          "published": "2024-12-03",
+          "topics": [
+            "Number analogy",
+            "Coding-decoding",
+            "Classification"
+          ],
+          "status": "verified",
+          "station_master_specific": false
+        },
+        {
+          "type": "video",
+          "title": "ANALOGY ONE SHOT | SSC REASONING FRB SERIES 2026 | BY KAMAL SIR | PARMAR SSC",
+          "channel": "PARMAR SSC",
+          "url": "https://www.youtube.com/watch?v=28AKohgTsW0",
+          "embed_url": "https://www.youtube.com/embed/28AKohgTsW0",
+          "published": "2026-04-19",
+          "topics": [
+            "Analogy (verbal and non-verbal)"
+          ],
+          "status": "verified",
+          "station_master_specific": false,
+          "note": "Made for SSC exams; the technique carries over."
+        }
+      ],
+      "pdfs": [],
+      "books": [
+        {
+          "title": "A Modern Approach to Verbal and Non-Verbal Reasoning",
+          "author": "R.S. Aggarwal",
+          "covers": "Mental reasoning",
+          "format": "Paid book"
+        }
+      ]
+    }
+  ],
+  "overview_videos": [
+    {
+      "type": "video",
+      "title": "Railway Station Master | New Vacancy 2026 | Eligibility, Syllabus & Pattern | By Neeraj Ma'am",
+      "channel": "Adda247 Railway Exams",
+      "url": "https://www.youtube.com/watch?v=8oUNakB2Y3A",
+      "embed_url": "https://www.youtube.com/embed/8oUNakB2Y3A",
+      "published": "2026-10-22",
+      "topics": [
+        "Eligibility",
+        "Syllabus",
+        "CBT + CBAT",
+        "70:30 weightage",
+        "Strategy"
+      ],
+      "status": "verified"
+    },
+    {
+      "type": "video",
+      "title": "Railway Station Master 2026 Complete Blueprint | RRB Station Master New Exam Pattern, Age, Salary",
+      "channel": "KGS Railway Exams",
+      "url": "https://www.youtube.com/watch?v=rx_jl2RcUgs",
+      "embed_url": "https://www.youtube.com/embed/rx_jl2RcUgs",
+      "published": "2026-10-24",
+      "topics": [
+        "Exam pattern",
+        "Age",
+        "Salary",
+        "Syllabus"
+      ],
+      "status": "verified"
+    },
+    {
+      "type": "video",
+      "title": "RRB Station Master Syllabus and Exam Pattern | Notification (Bengali)",
+      "channel": "Adda247 Railway and Police Bengali",
+      "url": "https://www.youtube.com/watch?v=NeRuHLvTQwQ",
+      "embed_url": "https://www.youtube.com/embed/NeRuHLvTQwQ",
+      "published": "2026-10-26",
+      "topics": [
+        "Syllabus",
+        "Exam pattern",
+        "Strategy"
+      ],
+      "status": "verified",
+      "language": "Bengali"
+    },
+    {
+      "type": "video",
+      "title": "RRB Station Master 2026 | Age Limit, Salary, Syllabus, Exam Pattern & Cut Off | Railway Exams Wallah",
+      "channel": "Railway Exams Wallah",
+      "url": "https://www.youtube.com/watch?v=CvII-od4NVM",
+      "embed_url": "https://www.youtube.com/embed/CvII-od4NVM",
+      "published": "2026-10-27",
+      "topics": [
+        "Age",
+        "Salary",
+        "Syllabus",
+        "Pattern",
+        "Cut-off"
+      ],
+      "status": "verified"
+    },
+    {
+      "type": "video",
+      "title": "RRB Station Master 2026 | Station Master CBT Syllabus, Study Plan & Preparation Strategy | Complete Details",
+      "channel": "Adda247 Railway Exams",
+      "url": "https://www.youtube.com/watch?v=SxMxHKncMFI",
+      "embed_url": "https://www.youtube.com/embed/SxMxHKncMFI",
+      "published": "2026-11-02",
+      "topics": [
+        "CBT pattern",
+        "Study plan",
+        "Books",
+        "Daily timetable"
+      ],
+      "status": "verified",
+      "note": "The description lists general awareness among its strategy topics; the new CBT pattern has no General Awareness section."
+    }
+  ],
+  "channels": [
+    {
+      "name": "Railway Exams Wallah",
+      "url": "https://www.youtube.com/channel/UCVwOR1IRZ4b0OaBC3w5y2uw",
+      "handle": "@railwayexamswallah",
+      "covers": [
+        "RRB NTPC",
+        "Group D",
+        "ALP",
+        "Technician",
+        "Station Master"
+      ],
+      "status": "verified"
+    },
+    {
+      "name": "Reasoning by Arun Kumar",
+      "url": "https://www.youtube.com/channel/UCOFlz9kK0jrdNMhE9OTsNgg",
+      "handle": "@arunsirreasoning",
+      "covers": [
+        "Reasoning for SSC, banking, railway and police exams"
+      ],
+      "station_master_specific": false,
+      "status": "verified"
+    }
+  ],
+  "official_links": [
+    {
+      "title": "RRB official website",
+      "url": "https://rrb.indianrailways.gov.in/",
+      "status": "seen_on_source_pages"
+    },
+    {
+      "title": "RRB online application portal",
+      "url": "https://www.rrbapply.gov.in/",
+      "status": "seen_on_source_pages"
+    },
+    {
+      "title": "CEN 08/2026 notification (PDF)",
+      "url": "https://rrb.indianrailways.gov.in/-/image/1793016771817CEN_08_2026_StationMaster.pdf/examsDocuments",
+      "status": "carried_over_from_existing_resources_file",
+      "note": "Could not be opened from this environment. Confirm it loads before relying on it."
+    },
+    {
+      "title": "Corrigendum No. 1 to CEN 08/2026 (PDF, 27.10.2026, total posts corrected to 1,265)",
+      "url": "https://rrb.indianrailways.gov.in/-/image/1793076767666Corrigendum_No_1_CEN_08_2026.pdf/examsDocuments",
+      "status": "seen_on_source_pages",
+      "note": "Link taken from a syllabus article; could not be opened from this environment."
+    },
+    {
+      "title": "PIB press release on the Station Master recruitment (PDF copy)",
+      "url": "https://www.staffnews.in/wp-content/uploads/2026/10/Press-Release_-Press-Information-Bureau-1.pdf",
+      "status": "opened_and_checked",
+      "note": "Covers vacancies, eligibility and dates. It does not describe the exam pattern."
+    },
+    {
+      "title": "RDSO (named in the CEN as the CBAT preparation reference: 'Psychology - Candidate's Corner')",
+      "url": "https://rdso.indianrailways.gov.in/",
+      "status": "seen_on_source_pages"
+    },
+    {
+      "title": "NCERT textbook portal (official, free textbook PDFs)",
+      "url": "https://ncert.nic.in/textbook.php",
+      "status": "seen_on_source_pages",
+      "note": "Not opened from this environment."
+    },
+    {
+      "title": "NCERT Class 9 Science book page (official)",
+      "url": "https://ncert.nic.in/textbook.php?iesc1=ps-13",
+      "status": "seen_on_source_pages",
+      "note": "Link taken from a Careers360 page; not opened from this environment."
+    },
+    {
+      "title": "Adda247 Station Master mock tests (3 free: DI subject test, Logical Capability subject test, full mock 1)",
+      "url": "https://www.adda247.com/rrb-station-master/mock-test",
+      "status": "opened_and_checked"
+    },
+    {
+      "title": "PW Store - railway books",
+      "url": "https://store.pw.live/govt-entrance-exams/railway-books",
+      "status": "seen_on_source_pages"
+    }
+  ],
+  "how_links_were_checked": {
+    "date": "2026-11-11",
+    "videos": "Each YouTube video's title and channel were read from its page metadata and had to match the title returned by the search. Duration could not be read (YouTube served a bot-protection page).",
+    "pdfs": "PDF links were read from the esaral.com pages listed in each entry (copies of the NCERT textbooks). Two (Class 10 Maths ch 5 and ch 9) were opened and the content matched. The rest were not opened one by one.",
+    "not_included": "Videos whose page did not match their search title, videos that could not be fetched, and videos describing a two-stage CBT or a General Awareness section. Pirated PDFs of paid books are not linked."
+  },
+  "notes": [
+    "The official CEN PDF could not be opened from this environment. The pattern above was confirmed from three independent articles that agree with each other. Check it against the notification before relying on it.",
+    "Heat and temperature has no NCERT PDF listed here yet.",
+    "Videos marked station_master_specific: false are general railway/SSC classes on a syllabus topic."
+  ]
+}

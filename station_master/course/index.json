@@ -1,0 +1,44 @@
+{
+  "exam": "RRB Station Master (Graduate Level) Single Stage CBT",
+  "notification": "CEN 08/2026",
+  "folder": "station_master/course/",
+  "raw_url_base": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/course/",
+  "last_updated": "2026-11-11",
+  "total_files": 1,
+  "files": [
+    {
+      "id": "SM_COURSE_RESOURCES",
+      "file": "station_master_course_resources.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/course/station_master_course_resources.json",
+      "description": "Preparation resources organised by the new CEN 08/2026 syllabus: YouTube classes and playlists, direct free PDF links and recommended books for each section, plus CBAT resources and official links.",
+      "sections": [
+        {
+          "id": "basic_science_maths",
+          "name": "Basic Science & Mathematics",
+          "marks": 30
+        },
+        {
+          "id": "data_analysis_interpretation",
+          "name": "Data Analysis & Interpretation",
+          "marks": 30
+        },
+        {
+          "id": "logical_capability",
+          "name": "Logical Capability",
+          "marks": 20
+        },
+        {
+          "id": "mental_reasoning",
+          "name": "Mental Reasoning",
+          "marks": 20
+        }
+      ],
+      "counts": {
+        "youtube_items": 25,
+        "pdf_links": 28,
+        "book_recommendations": 8
+      },
+      "last_updated": "2026-11-11"
+    }
+  ]
+}
