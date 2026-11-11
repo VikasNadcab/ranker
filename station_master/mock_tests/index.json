@@ -1,0 +1,320 @@
+{
+  "exam": "RRB Station Master (Graduate Level) Single Stage CBT",
+  "notification": "CEN 08/2026",
+  "total_tests": 62,
+  "folder": "station_master/mock_tests/",
+  "raw_url_base": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/",
+  "last_updated": "2026-11-11",
+  "tests": [
+    {
+      "id": "SM_MOCK_001",
+      "file": "mock_test_001.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_001.json"
+    },
+    {
+      "id": "SM_MOCK_002",
+      "file": "mock_test_002.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_002.json"
+    },
+    {
+      "id": "SM_MOCK_003",
+      "file": "mock_test_003.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_003.json"
+    },
+    {
+      "id": "SM_MOCK_004",
+      "file": "mock_test_004.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_004.json"
+    },
+    {
+      "id": "SM_MOCK_005",
+      "file": "mock_test_005.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_005.json"
+    },
+    {
+      "id": "SM_MOCK_006",
+      "file": "mock_test_006.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_006.json"
+    },
+    {
+      "id": "SM_MOCK_007",
+      "file": "mock_test_007.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_007.json"
+    },
+    {
+      "id": "SM_MOCK_008",
+      "file": "mock_test_008.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_008.json"
+    },
+    {
+      "id": "SM_MOCK_009",
+      "file": "mock_test_009.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_009.json"
+    },
+    {
+      "id": "SM_MOCK_010",
+      "file": "mock_test_010.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_010.json"
+    },
+    {
+      "id": "SM_MOCK_011",
+      "file": "mock_test_011.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_011.json"
+    },
+    {
+      "id": "SM_MOCK_012",
+      "file": "mock_test_012.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_012.json"
+    },
+    {
+      "id": "SM_MOCK_013",
+      "file": "mock_test_013.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_013.json"
+    },
+    {
+      "id": "SM_MOCK_014",
+      "file": "mock_test_014.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_014.json"
+    },
+    {
+      "id": "SM_MOCK_015",
+      "file": "mock_test_015.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_015.json"
+    },
+    {
+      "id": "SM_MOCK_016",
+      "file": "mock_test_016.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_016.json"
+    },
+    {
+      "id": "SM_MOCK_017",
+      "file": "mock_test_017.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_017.json"
+    },
+    {
+      "id": "SM_MOCK_018",
+      "file": "mock_test_018.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_018.json"
+    },
+    {
+      "id": "SM_MOCK_019",
+      "file": "mock_test_019.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_019.json"
+    },
+    {
+      "id": "SM_MOCK_020",
+      "file": "mock_test_020.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_020.json"
+    },
+    {
+      "id": "SM_MOCK_021",
+      "file": "mock_test_021.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_021.json"
+    },
+    {
+      "id": "SM_MOCK_022",
+      "file": "mock_test_022.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_022.json"
+    },
+    {
+      "id": "SM_MOCK_023",
+      "file": "mock_test_023.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_023.json"
+    },
+    {
+      "id": "SM_MOCK_024",
+      "file": "mock_test_024.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_024.json"
+    },
+    {
+      "id": "SM_MOCK_025",
+      "file": "mock_test_025.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_025.json"
+    },
+    {
+      "id": "SM_MOCK_026",
+      "file": "mock_test_026.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_026.json"
+    },
+    {
+      "id": "SM_MOCK_027",
+      "file": "mock_test_027.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_027.json"
+    },
+    {
+      "id": "SM_MOCK_028",
+      "file": "mock_test_028.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_028.json"
+    },
+    {
+      "id": "SM_MOCK_029",
+      "file": "mock_test_029.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_029.json"
+    },
+    {
+      "id": "SM_MOCK_030",
+      "file": "mock_test_030.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_030.json"
+    },
+    {
+      "id": "SM_MOCK_031",
+      "file": "mock_test_031.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_031.json"
+    },
+    {
+      "id": "SM_MOCK_032",
+      "file": "mock_test_032.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_032.json"
+    },
+    {
+      "id": "SM_MOCK_033",
+      "file": "mock_test_033.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_033.json"
+    },
+    {
+      "id": "SM_MOCK_034",
+      "file": "mock_test_034.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_034.json"
+    },
+    {
+      "id": "SM_MOCK_035",
+      "file": "mock_test_035.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_035.json"
+    },
+    {
+      "id": "SM_MOCK_036",
+      "file": "mock_test_036.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_036.json"
+    },
+    {
+      "id": "SM_MOCK_037",
+      "file": "mock_test_037.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_037.json"
+    },
+    {
+      "id": "SM_MOCK_038",
+      "file": "mock_test_038.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_038.json"
+    },
+    {
+      "id": "SM_MOCK_039",
+      "file": "mock_test_039.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_039.json"
+    },
+    {
+      "id": "SM_MOCK_040",
+      "file": "mock_test_040.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_040.json"
+    },
+    {
+      "id": "SM_MOCK_041",
+      "file": "mock_test_041.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_041.json"
+    },
+    {
+      "id": "SM_MOCK_042",
+      "file": "mock_test_042.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_042.json"
+    },
+    {
+      "id": "SM_MOCK_043",
+      "file": "mock_test_043.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_043.json"
+    },
+    {
+      "id": "SM_MOCK_044",
+      "file": "mock_test_044.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_044.json"
+    },
+    {
+      "id": "SM_MOCK_045",
+      "file": "mock_test_045.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_045.json"
+    },
+    {
+      "id": "SM_MOCK_046",
+      "file": "mock_test_046.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_046.json"
+    },
+    {
+      "id": "SM_MOCK_047",
+      "file": "mock_test_047.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_047.json"
+    },
+    {
+      "id": "SM_MOCK_048",
+      "file": "mock_test_048.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_048.json"
+    },
+    {
+      "id": "SM_MOCK_049",
+      "file": "mock_test_049.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_049.json"
+    },
+    {
+      "id": "SM_MOCK_050",
+      "file": "mock_test_050.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_050.json"
+    },
+    {
+      "id": "SM_MOCK_051",
+      "file": "mock_test_051.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_051.json"
+    },
+    {
+      "id": "SM_MOCK_052",
+      "file": "mock_test_052.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_052.json"
+    },
+    {
+      "id": "SM_MOCK_053",
+      "file": "mock_test_053.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_053.json"
+    },
+    {
+      "id": "SM_MOCK_054",
+      "file": "mock_test_054.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_054.json"
+    },
+    {
+      "id": "SM_MOCK_055",
+      "file": "mock_test_055.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_055.json"
+    },
+    {
+      "id": "SM_MOCK_056",
+      "file": "mock_test_056.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_056.json"
+    },
+    {
+      "id": "SM_MOCK_057",
+      "file": "mock_test_057.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_057.json"
+    },
+    {
+      "id": "SM_MOCK_058",
+      "file": "mock_test_058.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_058.json"
+    },
+    {
+      "id": "SM_MOCK_059",
+      "file": "mock_test_059.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_059.json"
+    },
+    {
+      "id": "SM_MOCK_060",
+      "file": "mock_test_060.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_060.json"
+    },
+    {
+      "id": "SM_MOCK_061",
+      "file": "mock_test_061.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_061.json"
+    },
+    {
+      "id": "SM_MOCK_062",
+      "file": "mock_test_062.json",
+      "raw_url": "https://raw.githubusercontent.com/VikasNadcab/ranker/main/station_master/mock_tests/mock_test_062.json"
+    }
+  ]
+}
