@@ -28,7 +28,7 @@
         "important_links",
         "preparation_tips"
       ],
-      "last_updated": "2026-11-10"
+      "last_updated": "2026-11-11"
     }
   ],
   "future_additions": "Add more exam resources by appending to the 'resources' array. Each resource should follow the same structure: id, name, category, notification, conducting_body, vacancies, file, raw_url, description, contents, last_updated.",

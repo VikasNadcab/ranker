@@ -13,7 +13,12 @@
     "age_limit": "20 to 33 years",
     "medical_standard": "A-2 (as per Indian Railways medical standards)"
   },
-  "selection_process": ["CBT (Computer Based Test)", "CBAT (Computer Based Aptitude Test)", "Document Verification", "Medical Examination"],
+  "selection_process": [
+    "CBT (Computer Based Test)",
+    "CBAT (Computer Based Aptitude Test)",
+    "Document Verification",
+    "Medical Examination"
+  ],
   "pay_level": "Level 6 (7th CPC)",
   "basic_pay": "Rs. 35,400 - Rs. 1,12,400",
   "grade_pay": "Rs. 4,200",
@@ -22,7 +27,7 @@
     "type": "Single Stage CBT (Computer Based Test)",
     "total_questions": 100,
     "total_marks": 100,
-    "duration_minutes": 90,
+    "duration_minutes": 120,
     "marking_scheme": "+1 for correct, -1/3 for incorrect",
     "negative_marking": "1/3 mark deducted per wrong answer",
     "language": "English, Hindi and other regional languages",
@@ -31,21 +36,42 @@
         "section": "Basic Science & Mathematics",
         "marks": 30,
         "topics": [
-          "Number System", "Ratio & Proportions", "Averages", "Percentages", "Profit, Loss & Discounts",
-          "Time, Speed, Distance", "Power & Work", "Algebra", "Linear Equations",
-          "Arithmetic Progression", "LCM, HCF", "Geometry and Trigonometry", "Area & Volumes",
-          "Probability and Statistics (Basic Level)", "Units, Measurements", "Mass, Weight and Density",
-          "Work, Power, Energy", "Kinetic Energy", "Friction", "Speed, Velocity, Relative Velocity",
-          "Heat and Temperature", "Basic Electricity", "Levers and Simple Machines"
+          "Number System",
+          "Ratio & Proportions",
+          "Averages",
+          "Percentages",
+          "Profit, Loss & Discounts",
+          "Time, Speed, Distance",
+          "Power & Work",
+          "Algebra",
+          "Linear Equations",
+          "Arithmetic Progression",
+          "LCM, HCF",
+          "Geometry and Trigonometry",
+          "Area & Volumes",
+          "Probability and Statistics (Basic Level)",
+          "Units, Measurements",
+          "Mass, Weight and Density",
+          "Work, Power, Energy",
+          "Kinetic Energy",
+          "Friction",
+          "Speed, Velocity, Relative Velocity",
+          "Heat and Temperature",
+          "Basic Electricity",
+          "Levers and Simple Machines"
         ]
       },
       {
         "section": "Data Analysis & Interpretation",
         "marks": 30,
         "topics": [
-          "Multi-source Data Analysis", "Examination and analysis of text", "Tabular data analysis",
+          "Multi-source Data Analysis",
+          "Examination and analysis of text",
+          "Tabular data analysis",
           "Graphical data (charts, graphs, scatter plot, pie chart, statistical curve distribution)",
-          "Venn Diagrams", "Data Sufficiency", "Data Arrangement"
+          "Venn Diagrams",
+          "Data Sufficiency",
+          "Data Arrangement"
         ]
       },
       {
@@ -53,12 +79,21 @@
         "marks": 20,
         "topics": {
           "logical_reasoning": [
-            "Binary Logic", "Syllogism", "Clocks & Calendars", "Assumptions", "Blood Relations",
-            "Family Tree", "Solving logic-based puzzles"
+            "Binary Logic",
+            "Syllogism",
+            "Clocks & Calendars",
+            "Assumptions",
+            "Blood Relations",
+            "Family Tree",
+            "Solving logic-based puzzles"
           ],
           "reading_comprehension": [
             "Passages from History, Society, Literature, Science, Environment, Abstract, Mythology, Technology, Culture",
-            "Main idea", "Supporting idea", "Application", "Logical structure", "Style of paragraph"
+            "Main idea",
+            "Supporting idea",
+            "Application",
+            "Logical structure",
+            "Style of paragraph"
           ]
         }
       },
@@ -72,7 +107,9 @@
           "Ranking and Arrangement-based problems"
         ]
       }
-    ]
+    ],
+    "general_awareness_section": false,
+    "pattern_note": "Single stage CBT with no General Awareness section. The section split is indicative and may vary in the actual exam. Confirmed from three articles; the official CEN 08/2026 PDF could not be opened while updating this file."
   },
   "official_notification_pdf": {
     "direct_link": "https://rrb.indianrailways.gov.in/-/image/1793016771817CEN_08_2026_StationMaster.pdf/examsDocuments",
@@ -112,32 +149,60 @@
       "author": "NCERT",
       "format": "PDF",
       "price": "Free",
-      "pdf_url": "https://ncert.nic.in/textbook/pdf/iesc1ps.pdf",
-      "topics_covered": ["Basic Science", "Motion", "Work and Energy", "Electricity", "Heat", "Sound"]
+      "topics_covered": [
+        "Basic Science",
+        "Motion",
+        "Work and Energy",
+        "Electricity",
+        "Heat",
+        "Sound"
+      ],
+      "chapter_pdfs": "station_master/course/station_master_course_resources.json"
     },
     {
       "title": "NCERT Science Textbook Class 10",
       "author": "NCERT",
       "format": "PDF",
       "price": "Free",
-      "pdf_url": "https://ncert.nic.in/textbook/pdf/jesc1ps.pdf",
-      "topics_covered": ["Basic Science", "Chemical Reactions", "Electricity", "Magnetic Effects", "Light", "Human Eye"]
+      "topics_covered": [
+        "Basic Science",
+        "Chemical Reactions",
+        "Electricity",
+        "Magnetic Effects",
+        "Light",
+        "Human Eye"
+      ],
+      "chapter_pdfs": "station_master/course/station_master_course_resources.json"
     },
     {
       "title": "NCERT Mathematics Textbook Class 9",
       "author": "NCERT",
       "format": "PDF",
       "price": "Free",
-      "pdf_url": "https://ncert.nic.in/textbook/pdf/iemh1ps.pdf",
-      "topics_covered": ["Number System", "Polynomials", "Coordinate Geometry", "Linear Equations", "Geometry", "Probability"]
+      "topics_covered": [
+        "Number System",
+        "Polynomials",
+        "Coordinate Geometry",
+        "Linear Equations",
+        "Geometry",
+        "Probability"
+      ],
+      "chapter_pdfs": "station_master/course/station_master_course_resources.json"
     },
     {
       "title": "NCERT Mathematics Textbook Class 10",
       "author": "NCERT",
       "format": "PDF",
       "price": "Free",
-      "pdf_url": "https://ncert.nic.in/textbook/pdf/jemh1ps.pdf",
-      "topics_covered": ["Real Numbers", "Polynomials", "Quadratic Equations", "Arithmetic Progression", "Trigonometry", "Statistics"]
+      "topics_covered": [
+        "Real Numbers",
+        "Polynomials",
+        "Quadratic Equations",
+        "Arithmetic Progression",
+        "Trigonometry",
+        "Statistics"
+      ],
+      "chapter_pdfs": "station_master/course/station_master_course_resources.json"
     },
     {
       "title": "Quantitative Aptitude for Competitive Examinations",
@@ -145,7 +210,14 @@
       "publisher": "S. Chand",
       "format": "Paperback",
       "amazon_url": "https://www.amazon.in/s?k=R.S.+Aggarwal+Quantitative+Aptitude",
-      "topics_covered": ["Mathematics", "Data Interpretation", "Number System", "Ratio & Proportion", "Time Speed Distance", "Profit Loss"]
+      "topics_covered": [
+        "Mathematics",
+        "Data Interpretation",
+        "Number System",
+        "Ratio & Proportion",
+        "Time Speed Distance",
+        "Profit Loss"
+      ]
     },
     {
       "title": "Verbal and Non-Verbal Reasoning",
@@ -153,7 +225,14 @@
       "publisher": "S. Chand",
       "format": "Paperback",
       "amazon_url": "https://www.amazon.in/s?k=R.S.+Aggarwal+Verbal+Non+Verbal+Reasoning",
-      "topics_covered": ["Logical Reasoning", "Analogy", "Series", "Coding-Decoding", "Blood Relations", "Syllogism"]
+      "topics_covered": [
+        "Logical Reasoning",
+        "Analogy",
+        "Series",
+        "Coding-Decoding",
+        "Blood Relations",
+        "Syllogism"
+      ]
     },
     {
       "title": "Objective General English",
@@ -161,7 +240,12 @@
       "publisher": "Arihant",
       "format": "Paperback",
       "amazon_url": "https://www.amazon.in/s?k=S.P.+Bakshi+Objective+General+English",
-      "topics_covered": ["Reading Comprehension", "Grammar", "Vocabulary", "Sentence Correction"]
+      "topics_covered": [
+        "Reading Comprehension",
+        "Grammar",
+        "Vocabulary",
+        "Sentence Correction"
+      ]
     },
     {
       "title": "Railway ASM/SM/TA Psychological Test",
@@ -169,7 +253,11 @@
       "publisher": "Kiran Prakashan",
       "format": "Paperback",
       "amazon_url": "https://www.amazon.in/s?k=Kiran+Railway+ASM+SM+TA+Psychological+Test",
-      "topics_covered": ["CBAT", "Psychological Test", "Aptitude Test"]
+      "topics_covered": [
+        "CBAT",
+        "Psychological Test",
+        "Aptitude Test"
+      ]
     },
     {
       "title": "Fast Track Objective Arithmetic",
@@ -177,7 +265,11 @@
       "publisher": "Arihant",
       "format": "Paperback",
       "amazon_url": "https://www.amazon.in/s?k=Rajesh+Verma+Fast+Track+Objective+Arithmetic",
-      "topics_covered": ["Shortcut methods", "Speed maths", "Arithmetic"]
+      "topics_covered": [
+        "Shortcut methods",
+        "Speed maths",
+        "Arithmetic"
+      ]
     },
     {
       "title": "Data Interpretation",
@@ -185,7 +277,13 @@
       "publisher": "McGraw Hill",
       "format": "Paperback",
       "amazon_url": "https://www.amazon.in/s?k=Arun+Sharma+Data+Interpretation",
-      "topics_covered": ["Data Analysis", "Charts", "Graphs", "Tables", "Venn Diagrams"]
+      "topics_covered": [
+        "Data Analysis",
+        "Charts",
+        "Graphs",
+        "Tables",
+        "Venn Diagrams"
+      ]
     },
     {
       "title": "RRB Station Master 2026-2027 (Set of 4 Books)",
@@ -194,7 +292,14 @@
       "format": "Paperback",
       "price_inr": 898,
       "amazon_url": "https://www.amazon.in/Station-Master-2026-2027-Railway-Recruitment/dp/B0HNWRQLCB",
-      "topics_covered": ["Basic Science", "Mathematics", "Data Analysis & DI", "Logical Capability", "Mental Reasoning", "Reading Comprehension"]
+      "topics_covered": [
+        "Basic Science",
+        "Mathematics",
+        "Data Analysis & DI",
+        "Logical Capability",
+        "Mental Reasoning",
+        "Reading Comprehension"
+      ]
     },
     {
       "title": "All in One RRB Station Master Exam 2027",
@@ -203,7 +308,11 @@
       "format": "Paperback",
       "price_inr": 278,
       "amazon_url": "https://www.amazon.in/gp/new-releases/books/4149791031",
-      "topics_covered": ["Chapterwise Theory & Exercise", "3000+ Practice Questions", "20 Online Mock Tests"]
+      "topics_covered": [
+        "Chapterwise Theory & Exercise",
+        "3000+ Practice Questions",
+        "20 Online Mock Tests"
+      ]
     },
     {
       "title": "RRB - Railway Station Master Exam Preparation Study Material Notes (Set of 3 Books)",
@@ -211,96 +320,72 @@
       "format": "Paperback",
       "price_inr": 799,
       "amazon_url": "https://www.amazon.in/gp/new-releases/books/4149791031",
-      "topics_covered": ["Study material notes", "English Medium"]
+      "topics_covered": [
+        "Study material notes",
+        "English Medium"
+      ]
     },
     {
       "title": "Testbook SmartBooks - RRB Station Master",
       "author": "Testbook",
       "format": "Online/PDF",
       "url": "https://testbook.com/prep/study-material/rrb-station-master/",
-      "topics_covered": ["Online courses", "Mock tests", "Chapter-wise PDF notes", "Daily quizzes"]
+      "topics_covered": [
+        "Online courses",
+        "Mock tests",
+        "Chapter-wise PDF notes",
+        "Daily quizzes"
+      ]
     },
     {
       "title": "Adda247 RRB Station Master Exam Kit",
       "author": "Adda247",
       "format": "Online",
       "url": "https://www.adda247.com/rrb-station-master-exam-kit",
-      "topics_covered": ["Study notes", "Study plan", "Mock tests", "Live classes"]
+      "topics_covered": [
+        "Study notes",
+        "Study plan",
+        "Mock tests",
+        "Live classes"
+      ]
     }
   ],
   "youtube_channels_and_videos": [
     {
-      "channel": "Railway Exams Wallah (PW)",
-      "channel_url": "https://www.youtube.com/@railwayexamswallah",
+      "channel": "Railway Exams Wallah",
+      "channel_url": "https://www.youtube.com/channel/UCVwOR1IRZ4b0OaBC3w5y2uw",
       "videos": [
         {
-          "title": "Railway Station Master 2026 | 3 Months Complete Strategy | RRB Station Master Preparation 2026",
-          "direct_url": "https://www.youtube.com/watch?v=GeyPNNIqMNw",
-          "embed_url": "https://www.youtube.com/embed/GeyPNNIqMNw",
-          "duration": "24:57",
-          "topics": ["Preparation strategy", "Study plan", "New exam pattern"]
+          "title": "RRB Station Master 2026 | Age Limit, Salary, Syllabus, Exam Pattern & Cut Off | Railway Exams Wallah",
+          "direct_url": "https://www.youtube.com/watch?v=CvII-od4NVM",
+          "embed_url": "https://www.youtube.com/embed/CvII-od4NVM",
+          "topics": [
+            "Age",
+            "Salary",
+            "Syllabus",
+            "Exam pattern",
+            "Cut-off"
+          ]
         }
       ]
     },
     {
-      "channel": "Careerwill Railway Exams",
-      "channel_url": "https://www.youtube.com/@careerwillrailwayexams",
-      "videos": [
-        {
-          "title": "RRB Station Master New Vacancy 2026 | Preparation Strategy & Syllabus (Bharat Sir)",
-          "direct_url": "https://www.youtube.com/watch?v=sNIAk5ltXuI",
-          "embed_url": "https://www.youtube.com/embed/sNIAk5ltXuI",
-          "duration": "15:40",
-          "topics": ["Preparation strategy", "Syllabus", "Master plan", "Study plan", "Safe zone vs danger zone"]
-        }
+      "channel": "Reasoning by Arun Kumar",
+      "channel_url": "https://www.youtube.com/channel/UCOFlz9kK0jrdNMhE9OTsNgg",
+      "topics_covered": [
+        "Syllogism",
+        "Coding-decoding",
+        "Seating arrangement",
+        "Blood relations",
+        "Puzzles"
       ]
-    },
-    {
-      "channel": "Adda247 SSC Exams",
-      "channel_url": "https://www.youtube.com/@adda247ssc",
-      "videos": [
-        {
-          "title": "RRB Station Master syllabus 2026 | Exam Pattern & Syllabus | Strategy",
-          "direct_url": "https://www.youtube.com/watch?v=mAnrmm-CNEk",
-          "embed_url": "https://www.youtube.com/embed/mAnrmm-CNEk",
-          "duration": "10:52",
-          "topics": ["Complete syllabus", "Exam pattern", "CBT 1", "Preparation strategy", "Study plan"]
-        }
-      ]
-    },
-    {
-      "channel": "ADARI INSTITUTE",
-      "channel_url": "https://www.youtube.com/",
-      "videos": [
-        {
-          "title": "RRB STATION MASTER 2026 | PREPARATION STRATEGY | 90 DAYS STUDY PLAN | NEW EXAM PATTERN",
-          "direct_url": "https://www.youtube.com/watch?v=0-n_WOe-M6k",
-          "embed_url": "https://www.youtube.com/embed/0-n_WOe-M6k",
-          "topics": ["90 days study plan", "New exam pattern", "Mathematics concepts"]
-        }
-      ]
-    },
-    {
-      "channel": "Adda247 Tamil",
-      "channel_url": "https://www.youtube.com/@adda247tamil",
-      "videos": [
-        {
-          "title": "RRB Station Master Exam Date 2026 | Safe Score and Exam Preparation Strategy",
-          "direct_url": "https://www.youtube.com/watch?v=fVTS2P1dnlQ",
-          "embed_url": "https://www.youtube.com/embed/fVTS2P1dnlQ",
-          "duration": "24:48",
-          "topics": ["Expected exam date", "Previous year cut-off trends", "Safe score", "Target marks", "Preparation strategy"]
-        }
-      ]
-    },
-    {
-      "channel": "Teaching Wallah by PW",
-      "channel_url": "https://www.youtube.com/@teachingwallahbypw",
-      "topics_covered": ["Mathematics concepts for all competitive exams"]
     },
     {
       "channel": "YouTube Search",
       "search_url": "https://www.youtube.com/results?search_query=RRB+Station+Master+2026+preparation"
+    },
+    {
+      "note": "Class-wise videos, playlists and channels for every syllabus section are in station_master/course/station_master_course_resources.json."
     }
   ],
   "past_question_papers": {
@@ -345,20 +430,51 @@
       }
     ],
     "2026_exam_dates": {
-      "cbt1": ["16 March 2026", "17 March 2026", "18 March 2026", "19 March 2026", "22 March 2026", "24 March 2026", "25 March 2026", "27 March 2026"],
-      "cbt2": ["10 July 2026"]
+      "cbt1": [
+        "16 March 2026",
+        "17 March 2026",
+        "18 March 2026",
+        "19 March 2026",
+        "22 March 2026",
+        "24 March 2026",
+        "25 March 2026",
+        "27 March 2026"
+      ],
+      "cbt2": [
+        "10 July 2026"
+      ]
     },
     "2025_exam_dates": {
-      "cbt1": ["5 June 2025", "6 June 2025", "9 June 2025", "10 June 2025", "11 June 2025", "12 June 2025", "13 June 2025"],
-      "cbt2": ["13 Oct 2025"]
-    }
+      "cbt1": [
+        "5 June 2025",
+        "6 June 2025",
+        "9 June 2025",
+        "10 June 2025",
+        "11 June 2025",
+        "12 June 2025",
+        "13 June 2025"
+      ],
+      "cbt2": [
+        "13 Oct 2025"
+      ]
+    },
+    "pattern_note": "Earlier Station Master and NTPC papers used a two-stage CBT 1 / CBT 2 pattern. CEN 08/2026 is a single stage CBT, so use them for topic practice, not as a model of the new paper."
   },
   "mock_tests": {
     "testbook": {
       "url": "https://testbook.com/prep/study-material/rrb-station-master/",
       "total_tests": 162,
       "free_tests": 2,
-      "languages": ["English", "Hindi", "Bengali", "Marathi", "Telugu", "Tamil", "Kannada", "Gujarati"]
+      "languages": [
+        "English",
+        "Hindi",
+        "Bengali",
+        "Marathi",
+        "Telugu",
+        "Tamil",
+        "Kannada",
+        "Gujarati"
+      ]
     },
     "adda247": {
       "url": "https://www.adda247.com/rrb-station-master-exam-kit",
@@ -370,7 +486,14 @@
     "testbook": {
       "url": "https://testbook.com/prep/study-material/rrb-station-master/",
       "chapter_wise_pdf_notes": 1317,
-      "subjects": ["Logical Reasoning", "Verbal Reasoning", "Non Verbal Reasoning", "Basic Science", "Mathematics", "Data Analysis & Interpretation"]
+      "subjects": [
+        "Logical Reasoning",
+        "Verbal Reasoning",
+        "Non Verbal Reasoning",
+        "Basic Science",
+        "Mathematics",
+        "Data Analysis & Interpretation"
+      ]
     }
   },
   "online_courses": [
@@ -382,7 +505,9 @@
     },
     {
       "platform": "Adda247",
-      "courses": ["RRB Station Master 2026-27 Target Batch (Hinglish) - 206 Live Classes"],
+      "courses": [
+        "RRB Station Master 2026-27 Target Batch (Hinglish) - 206 Live Classes"
+      ],
       "url": "https://www.adda247.com/rrb-station-master-exam-kit"
     }
   ],
@@ -411,9 +536,9 @@
     "Follow 90-day study plan for systematic preparation",
     "Revise regularly - weekly revision of covered topics",
     "Focus on weak areas identified through mock test analysis",
-    "Stay updated with current affairs for General Awareness"
+    "Plan for 120 minutes: about 72 seconds per question, with 1/3 mark lost per wrong answer."
   ],
-  "last_updated": "2026-11-10",
+  "last_updated": "2026-11-11",
   "data_sources": [
     "RRB Official Notification CEN 08/2026 (rrb.indianrailways.gov.in)",
     "PIB Press Release (pib.gov.in)",
@@ -423,5 +548,9 @@
     "Amazon India (amazon.in)",
     "NCERT (ncert.nic.in)",
     "YouTube (Railway Exams Wallah, Careerwill, Adda247, ADARI Institute, Teaching Wallah)"
-  ]
+  ],
+  "course_resources": {
+    "index": "station_master/course/index.json",
+    "description": "YouTube classes, free PDF links and books organised by the new syllabus."
+  }
 }
